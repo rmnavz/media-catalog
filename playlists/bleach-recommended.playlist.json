@@ -2616,32 +2616,6 @@
     "name": "Bleach: Thousand-Year Blood War",
     "year": 2022,
     "kind": "series",
-    "tvdb_id": 424067,
-    "season": 1,
-    "tvdb_season": "424067_1"
-  },
-  {
-    "name": "Bleach: Thousand-Year Blood War",
-    "year": 2022,
-    "kind": "series",
-    "tvdb_id": 424067,
-    "season": 2,
-    "tvdb_season": "424067_2"
-  },
-  {
-    "name": "Bleach: Thousand-Year Blood War",
-    "year": 2022,
-    "kind": "series",
-    "tvdb_id": 424067,
-    "season": 3,
-    "tvdb_season": "424067_3"
-  },
-  {
-    "name": "Bleach: Thousand-Year Blood War",
-    "year": 2022,
-    "kind": "series",
-    "tvdb_id": 424067,
-    "season": 4,
-    "tvdb_season": "424067_4"
+    "imdb_id": "tt14986406"
   }
 ]
