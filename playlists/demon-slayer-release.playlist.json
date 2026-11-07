@@ -1,0 +1,33 @@
+[
+  {
+    "name": "Demon Slayer: Kimetsu no Yaiba",
+    "year": 2019,
+    "kind": "series",
+    "imdb_id": "tt9335498",
+    "tmdb_id": 85937,
+    "tvdb_id": 348545,
+    "anidb_id": 14107,
+    "anilist_id": 101922,
+    "mal_id": 38000
+  },
+  {
+    "name": "Demon Slayer: Kimetsu no Yaiba – The Movie: Mugen Train",
+    "year": 2020,
+    "kind": "movie",
+    "imdb_id": "tt11032374",
+    "tmdb_id": 635302,
+    "anidb_id": 15113,
+    "anilist_id": 112151,
+    "mal_id": 40456
+  },
+  {
+    "name": "Demon Slayer: Kimetsu no Yaiba – Infinity Castle",
+    "year": 2025,
+    "kind": "movie",
+    "imdb_id": "tt32820897",
+    "tmdb_id": 1311031,
+    "anidb_id": 18699,
+    "anilist_id": 178788,
+    "mal_id": 59192
+  }
+]

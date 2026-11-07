@@ -1,0 +1,706 @@
+[
+  {
+    "name": "Captain America: The First Avenger",
+    "year": 2011,
+    "kind": "movie",
+    "imdb_id": "tt0458339",
+    "tmdb_id": 1771
+  },
+  {
+    "name": "Agent Carter",
+    "year": 2015,
+    "kind": "series",
+    "tvdb_id": 281485,
+    "season": 1,
+    "tvdb_season": "281485_1"
+  },
+  {
+    "name": "Agent Carter",
+    "year": 2015,
+    "kind": "series",
+    "tvdb_id": 281485,
+    "season": 2,
+    "tvdb_season": "281485_2"
+  },
+  {
+    "name": "Captain Marvel",
+    "year": 2019,
+    "kind": "movie",
+    "imdb_id": "tt4154664",
+    "tmdb_id": 299537
+  },
+  {
+    "name": "Iron Man",
+    "year": 2008,
+    "kind": "movie",
+    "imdb_id": "tt0371746",
+    "tmdb_id": 1726
+  },
+  {
+    "name": "Iron Man 2",
+    "year": 2010,
+    "kind": "movie",
+    "imdb_id": "tt1228705",
+    "tmdb_id": 10138
+  },
+  {
+    "name": "Marvel One-Shot: A Funny Thing Happened on the Way to Thor's Hammer",
+    "year": 2011,
+    "kind": "movie",
+    "imdb_id": "tt2011109",
+    "tmdb_id": 76535
+  },
+  {
+    "name": "Thor",
+    "year": 2011,
+    "kind": "movie",
+    "imdb_id": "tt0800369",
+    "tmdb_id": 10195
+  },
+  {
+    "name": "The Incredible Hulk",
+    "year": 2008,
+    "kind": "movie",
+    "imdb_id": "tt0800080",
+    "tmdb_id": 1724
+  },
+  {
+    "name": "Marvel One-Shot: The Consultant",
+    "year": 2011,
+    "kind": "movie",
+    "imdb_id": "tt2011118",
+    "tmdb_id": 76122
+  },
+  {
+    "name": "The Avengers",
+    "year": 2012,
+    "kind": "movie",
+    "imdb_id": "tt0848228",
+    "tmdb_id": 24428
+  },
+  {
+    "name": "Marvel One-Shot: Item 47",
+    "year": 2012,
+    "kind": "movie",
+    "imdb_id": "tt2247732",
+    "tmdb_id": 119569
+  },
+  {
+    "name": "Agents of S.H.I.E.L.D.",
+    "year": 2013,
+    "kind": "series",
+    "tvdb_id": 263365,
+    "season": 1,
+    "tvdb_season": "263365_1"
+  },
+  {
+    "name": "Iron Man 3",
+    "year": 2013,
+    "kind": "movie",
+    "imdb_id": "tt1300854",
+    "tmdb_id": 68721
+  },
+  {
+    "name": "Marvel One-Shot: Agent Carter",
+    "year": 2013,
+    "kind": "movie",
+    "imdb_id": "tt3067038",
+    "tmdb_id": 211387
+  },
+  {
+    "name": "Thor: The Dark World",
+    "year": 2013,
+    "kind": "movie",
+    "imdb_id": "tt1981115",
+    "tmdb_id": 76338
+  },
+  {
+    "name": "Marvel One-Shot: All Hail the King",
+    "year": 2014,
+    "kind": "movie",
+    "imdb_id": "tt3438640",
+    "tmdb_id": 253980
+  },
+  {
+    "name": "Captain America: The Winter Soldier",
+    "year": 2014,
+    "kind": "movie",
+    "imdb_id": "tt1843866",
+    "tmdb_id": 100402
+  },
+  {
+    "name": "Agents of S.H.I.E.L.D.",
+    "year": 2013,
+    "kind": "series",
+    "tvdb_id": 263365,
+    "season": 2,
+    "tvdb_season": "263365_2"
+  },
+  {
+    "name": "Guardians of the Galaxy",
+    "year": 2014,
+    "kind": "movie",
+    "imdb_id": "tt2015381",
+    "tmdb_id": 118340
+  },
+  {
+    "name": "Daredevil",
+    "year": 2015,
+    "kind": "series",
+    "tvdb_id": 281662,
+    "season": 1,
+    "tvdb_season": "281662_1"
+  },
+  {
+    "name": "Jessica Jones",
+    "year": 2015,
+    "kind": "series",
+    "tvdb_id": 284190,
+    "season": 1,
+    "tvdb_season": "284190_1"
+  },
+  {
+    "name": "Avengers: Age of Ultron",
+    "year": 2015,
+    "kind": "movie",
+    "imdb_id": "tt2395427",
+    "tmdb_id": 99861
+  },
+  {
+    "name": "Agents of S.H.I.E.L.D.",
+    "year": 2013,
+    "kind": "series",
+    "tvdb_id": 263365,
+    "season": 3,
+    "tvdb_season": "263365_3"
+  },
+  {
+    "name": "Ant-Man",
+    "year": 2015,
+    "kind": "movie",
+    "imdb_id": "tt0478970",
+    "tmdb_id": 102899
+  },
+  {
+    "name": "Daredevil",
+    "year": 2015,
+    "kind": "series",
+    "tvdb_id": 281662,
+    "season": 2,
+    "tvdb_season": "281662_2"
+  },
+  {
+    "name": "Luke Cage",
+    "year": 2016,
+    "kind": "series",
+    "tvdb_id": 304219,
+    "season": 1,
+    "tvdb_season": "304219_1"
+  },
+  {
+    "name": "Captain America: Civil War",
+    "year": 2016,
+    "kind": "movie",
+    "imdb_id": "tt3498820",
+    "tmdb_id": 271110
+  },
+  {
+    "name": "Agents of S.H.I.E.L.D.",
+    "year": 2013,
+    "kind": "series",
+    "tvdb_id": 263365,
+    "season": 4,
+    "tvdb_season": "263365_4"
+  },
+  {
+    "name": "Iron Fist",
+    "year": 2017,
+    "kind": "series",
+    "tvdb_id": 317953,
+    "season": 1,
+    "tvdb_season": "317953_1"
+  },
+  {
+    "name": "The Defenders",
+    "year": 2017,
+    "kind": "series",
+    "imdb_id": "tt4230076",
+    "tmdb_id": 62285,
+    "tvdb_id": 326490
+  },
+  {
+    "name": "The Punisher",
+    "year": 2017,
+    "kind": "series",
+    "tvdb_id": 331980,
+    "season": 1,
+    "tvdb_season": "331980_1"
+  },
+  {
+    "name": "Doctor Strange",
+    "year": 2016,
+    "kind": "movie",
+    "imdb_id": "tt1211837",
+    "tmdb_id": 284052
+  },
+  {
+    "name": "Guardians of the Galaxy Vol. 2",
+    "year": 2017,
+    "kind": "movie",
+    "imdb_id": "tt3896198",
+    "tmdb_id": 283995
+  },
+  {
+    "name": "Team Thor",
+    "year": 2016,
+    "kind": "movie",
+    "imdb_id": "tt6016776",
+    "tmdb_id": 413279
+  },
+  {
+    "name": "Spider-Man: Homecoming",
+    "year": 2017,
+    "kind": "movie",
+    "imdb_id": "tt2250912",
+    "tmdb_id": 315635
+  },
+  {
+    "name": "Team Thor: Part 2",
+    "year": 2017,
+    "kind": "movie",
+    "imdb_id": "tt6599818",
+    "tmdb_id": 441829
+  },
+  {
+    "name": "Thor: Ragnarok",
+    "year": 2017,
+    "kind": "movie",
+    "imdb_id": "tt3501632",
+    "tmdb_id": 284053
+  },
+  {
+    "name": "Team Darryl",
+    "year": 2018,
+    "kind": "movie",
+    "imdb_id": "tt8023090",
+    "tmdb_id": 505945
+  },
+  {
+    "name": "Black Panther",
+    "year": 2018,
+    "kind": "movie",
+    "imdb_id": "tt1825683",
+    "tmdb_id": 284054
+  },
+  {
+    "name": "Agents of S.H.I.E.L.D.",
+    "year": 2013,
+    "kind": "series",
+    "tvdb_id": 263365,
+    "season": 5,
+    "tvdb_season": "263365_5"
+  },
+  {
+    "name": "Jessica Jones",
+    "year": 2015,
+    "kind": "series",
+    "tvdb_id": 284190,
+    "season": 2,
+    "tvdb_season": "284190_2"
+  },
+  {
+    "name": "Luke Cage",
+    "year": 2016,
+    "kind": "series",
+    "tvdb_id": 304219,
+    "season": 2,
+    "tvdb_season": "304219_2"
+  },
+  {
+    "name": "Iron Fist",
+    "year": 2017,
+    "kind": "series",
+    "tvdb_id": 317953,
+    "season": 2,
+    "tvdb_season": "317953_2"
+  },
+  {
+    "name": "Daredevil",
+    "year": 2015,
+    "kind": "series",
+    "tvdb_id": 281662,
+    "season": 3,
+    "tvdb_season": "281662_3"
+  },
+  {
+    "name": "The Punisher",
+    "year": 2017,
+    "kind": "series",
+    "tvdb_id": 331980,
+    "season": 2,
+    "tvdb_season": "331980_2"
+  },
+  {
+    "name": "Runaways",
+    "year": 2017,
+    "kind": "series",
+    "tvdb_id": 332231,
+    "season": 1,
+    "tvdb_season": "332231_1"
+  },
+  {
+    "name": "Cloak & Dagger",
+    "year": 2018,
+    "kind": "series",
+    "tvdb_id": 342868,
+    "season": 1,
+    "tvdb_season": "342868_1"
+  },
+  {
+    "name": "Avengers: Infinity War",
+    "year": 2018,
+    "kind": "movie",
+    "imdb_id": "tt4154756",
+    "tmdb_id": 299536
+  },
+  {
+    "name": "Cloak & Dagger",
+    "year": 2018,
+    "kind": "series",
+    "tvdb_id": 342868,
+    "season": 2,
+    "tvdb_season": "342868_2"
+  },
+  {
+    "name": "Ant-Man and the Wasp",
+    "year": 2018,
+    "kind": "movie",
+    "imdb_id": "tt5095030",
+    "tmdb_id": 363088
+  },
+  {
+    "name": "Agents of S.H.I.E.L.D.",
+    "year": 2013,
+    "kind": "series",
+    "tvdb_id": 263365,
+    "season": 6,
+    "tvdb_season": "263365_6"
+  },
+  {
+    "name": "Runaways",
+    "year": 2017,
+    "kind": "series",
+    "tvdb_id": 332231,
+    "season": 2,
+    "tvdb_season": "332231_2"
+  },
+  {
+    "name": "Jessica Jones",
+    "year": 2015,
+    "kind": "series",
+    "tvdb_id": 284190,
+    "season": 3,
+    "tvdb_season": "284190_3"
+  },
+  {
+    "name": "Avengers: Endgame",
+    "year": 2019,
+    "kind": "movie",
+    "imdb_id": "tt4154796",
+    "tmdb_id": 299534
+  },
+  {
+    "name": "Agents of S.H.I.E.L.D.",
+    "year": 2013,
+    "kind": "series",
+    "tvdb_id": 263365,
+    "season": 7,
+    "tvdb_season": "263365_7"
+  },
+  {
+    "name": "Runaways",
+    "year": 2017,
+    "kind": "series",
+    "tvdb_id": 332231,
+    "season": 3,
+    "tvdb_season": "332231_3"
+  },
+  {
+    "name": "Spider-Man: Far From Home",
+    "year": 2019,
+    "kind": "movie",
+    "imdb_id": "tt6320628",
+    "tmdb_id": 429617
+  },
+  {
+    "name": "WandaVision",
+    "year": 2021,
+    "kind": "series",
+    "imdb_id": "tt9140560",
+    "tmdb_id": 85271,
+    "tvdb_id": 362392
+  },
+  {
+    "name": "The Falcon and the Winter Soldier",
+    "year": 2021,
+    "kind": "series",
+    "imdb_id": "tt9208876",
+    "tmdb_id": 88396,
+    "tvdb_id": 362496
+  },
+  {
+    "name": "Loki",
+    "year": 2021,
+    "kind": "series",
+    "tvdb_id": 362472,
+    "season": 1,
+    "tvdb_season": "362472_1"
+  },
+  {
+    "name": "Black Widow",
+    "year": 2021,
+    "kind": "movie",
+    "imdb_id": "tt3480822",
+    "tmdb_id": 497698
+  },
+  {
+    "name": "What If...?",
+    "year": 2021,
+    "kind": "series",
+    "tvdb_id": 367147,
+    "season": 1,
+    "tvdb_season": "367147_1"
+  },
+  {
+    "name": "Shang-Chi and the Legend of the Ten Rings",
+    "year": 2021,
+    "kind": "movie",
+    "imdb_id": "tt9376612",
+    "tmdb_id": 566525
+  },
+  {
+    "name": "Eternals",
+    "year": 2021,
+    "kind": "movie",
+    "imdb_id": "tt9032400",
+    "tmdb_id": 524434
+  },
+  {
+    "name": "Hawkeye",
+    "year": 2021,
+    "kind": "series",
+    "imdb_id": "tt10160804",
+    "tmdb_id": 88329,
+    "tvdb_id": 367146
+  },
+  {
+    "name": "Spider-Man: No Way Home",
+    "year": 2021,
+    "kind": "movie",
+    "imdb_id": "tt10872600",
+    "tmdb_id": 634649
+  },
+  {
+    "name": "Moon Knight",
+    "year": 2022,
+    "kind": "series",
+    "imdb_id": "tt10234724",
+    "tmdb_id": 92749,
+    "tvdb_id": 368611
+  },
+  {
+    "name": "Doctor Strange in the Multiverse of Madness",
+    "year": 2022,
+    "kind": "movie",
+    "imdb_id": "tt9419884",
+    "tmdb_id": 453395
+  },
+  {
+    "name": "Ms. Marvel",
+    "year": 2022,
+    "kind": "series",
+    "imdb_id": "tt10857164",
+    "tmdb_id": 92782,
+    "tvdb_id": 368612
+  },
+  {
+    "name": "Thor: Love and Thunder",
+    "year": 2022,
+    "kind": "movie",
+    "imdb_id": "tt10648342",
+    "tmdb_id": 616037
+  },
+  {
+    "name": "I Am Groot",
+    "year": 2022,
+    "kind": "series",
+    "tvdb_id": 393201,
+    "season": 1,
+    "tvdb_season": "393201_1"
+  },
+  {
+    "name": "She-Hulk: Attorney at Law",
+    "year": 2022,
+    "kind": "series",
+    "imdb_id": "tt10857160",
+    "tmdb_id": 92783,
+    "tvdb_id": 368613
+  },
+  {
+    "name": "Werewolf by Night",
+    "year": 2022,
+    "kind": "movie",
+    "imdb_id": "tt15318872",
+    "tmdb_id": 894205
+  },
+  {
+    "name": "Black Panther: Wakanda Forever",
+    "year": 2022,
+    "kind": "movie",
+    "imdb_id": "tt9114286",
+    "tmdb_id": 505642
+  },
+  {
+    "name": "The Guardians of the Galaxy Holiday Special",
+    "year": 2022,
+    "kind": "movie",
+    "imdb_id": "tt13623136",
+    "tmdb_id": 774752
+  },
+  {
+    "name": "What If...?",
+    "year": 2021,
+    "kind": "series",
+    "tvdb_id": 367147,
+    "season": 2,
+    "tvdb_season": "367147_2"
+  },
+  {
+    "name": "Ant-Man and the Wasp: Quantumania",
+    "year": 2023,
+    "kind": "movie",
+    "imdb_id": "tt10954600",
+    "tmdb_id": 640146
+  },
+  {
+    "name": "Guardians of the Galaxy Vol. 3",
+    "year": 2023,
+    "kind": "movie",
+    "imdb_id": "tt6791350",
+    "tmdb_id": 447365
+  },
+  {
+    "name": "Secret Invasion",
+    "year": 2023,
+    "kind": "series",
+    "imdb_id": "tt13157618",
+    "tmdb_id": 114472,
+    "tvdb_id": 393203
+  },
+  {
+    "name": "I Am Groot",
+    "year": 2022,
+    "kind": "series",
+    "tvdb_id": 393201,
+    "season": 2,
+    "tvdb_season": "393201_2"
+  },
+  {
+    "name": "Loki",
+    "year": 2021,
+    "kind": "series",
+    "tvdb_id": 362472,
+    "season": 2,
+    "tvdb_season": "362472_2"
+  },
+  {
+    "name": "The Marvels",
+    "year": 2023,
+    "kind": "movie",
+    "imdb_id": "tt10676048",
+    "tmdb_id": 609681
+  },
+  {
+    "name": "Echo",
+    "year": 2024,
+    "kind": "series",
+    "imdb_id": "tt13966962",
+    "tmdb_id": 122226,
+    "tvdb_id": 412431
+  },
+  {
+    "name": "Deadpool & Wolverine",
+    "year": 2024,
+    "kind": "movie",
+    "imdb_id": "tt6263850",
+    "tmdb_id": 533535
+  },
+  {
+    "name": "Agatha All Along",
+    "year": 2024,
+    "kind": "series",
+    "imdb_id": "tt15571732",
+    "tmdb_id": 138501,
+    "tvdb_id": 412429
+  },
+  {
+    "name": "What If...?",
+    "year": 2021,
+    "kind": "series",
+    "tvdb_id": 367147,
+    "season": 3,
+    "tvdb_season": "367147_3"
+  },
+  {
+    "name": "Captain America: Brave New World",
+    "year": 2025,
+    "kind": "movie",
+    "imdb_id": "tt14513804",
+    "tmdb_id": 822119
+  },
+  {
+    "name": "Daredevil: Born Again",
+    "year": 2025,
+    "kind": "series",
+    "tvdb_id": 422712,
+    "season": 1,
+    "tvdb_season": "422712_1"
+  },
+  {
+    "name": "Thunderbolts*",
+    "year": 2025,
+    "kind": "movie",
+    "imdb_id": "tt20969586",
+    "tmdb_id": 986056
+  },
+  {
+    "name": "Ironheart",
+    "year": 2025,
+    "kind": "series",
+    "imdb_id": "tt13623126",
+    "tmdb_id": 114471,
+    "tvdb_id": 393204
+  },
+  {
+    "name": "The Fantastic Four: First Steps",
+    "year": 2025,
+    "kind": "movie",
+    "imdb_id": "tt10676052",
+    "tmdb_id": 617126
+  },
+  {
+    "name": "Daredevil: Born Again",
+    "year": 2025,
+    "kind": "series",
+    "tvdb_id": 422712,
+    "season": 2,
+    "tvdb_season": "422712_2"
+  },
+  {
+    "name": "Spider-Man: Brand New Day",
+    "year": 2026,
+    "kind": "movie",
+    "imdb_id": "tt22084616",
+    "tmdb_id": 969681
+  }
+]

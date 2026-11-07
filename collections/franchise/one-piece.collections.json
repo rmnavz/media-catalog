@@ -1,0 +1,163 @@
+[
+  {
+    "name": "One Piece: The Movie",
+    "year": 2000,
+    "kind": "movie",
+    "imdb_id": "tt0814243",
+    "tmdb_id": 19576,
+    "anidb_id": 411,
+    "anilist_id": 459,
+    "mal_id": 459
+  },
+  {
+    "name": "One Piece: Clockwork Island Adventure",
+    "year": 2001,
+    "kind": "movie",
+    "imdb_id": "tt0832449",
+    "tmdb_id": 23446,
+    "anidb_id": 893,
+    "anilist_id": 460,
+    "mal_id": 460
+  },
+  {
+    "name": "One Piece: Chopper's Kingdom on the Island of Strange Animals",
+    "year": 2002,
+    "kind": "movie",
+    "imdb_id": "tt0997084",
+    "tmdb_id": 44725,
+    "anidb_id": 1253,
+    "anilist_id": 461,
+    "mal_id": 461
+  },
+  {
+    "name": "One Piece: Dead End Adventure",
+    "year": 2003,
+    "kind": "movie",
+    "imdb_id": "tt1006926",
+    "tmdb_id": 44727,
+    "anidb_id": 1254,
+    "anilist_id": 462,
+    "mal_id": 462
+  },
+  {
+    "name": "One Piece: The Cursed Holy Sword",
+    "year": 2004,
+    "kind": "movie",
+    "imdb_id": "tt1010435",
+    "tmdb_id": 44728,
+    "anidb_id": 2036,
+    "anilist_id": 463,
+    "mal_id": 463
+  },
+  {
+    "name": "One Piece: Baron Omatsuri and the Secret Island",
+    "year": 2005,
+    "kind": "movie",
+    "imdb_id": "tt1018764",
+    "tmdb_id": 44729,
+    "anidb_id": 2644,
+    "anilist_id": 464,
+    "mal_id": 464
+  },
+  {
+    "name": "One Piece: The Giant Mechanical Soldier of Karakuri Castle",
+    "year": 2006,
+    "kind": "movie",
+    "imdb_id": "tt1059950",
+    "tmdb_id": 44730,
+    "anidb_id": 4097,
+    "anilist_id": 465,
+    "mal_id": 465
+  },
+  {
+    "name": "One Piece: Episode of Alabasta - The Desert Princess and the Pirates",
+    "year": 2007,
+    "kind": "movie",
+    "imdb_id": "tt1037116",
+    "tmdb_id": 25278,
+    "anidb_id": 4851,
+    "anilist_id": 2107,
+    "mal_id": 2107
+  },
+  {
+    "name": "One Piece: Episode of Chopper Plus - Bloom in the Winter, Miracle Sakura",
+    "year": 2008,
+    "kind": "movie",
+    "imdb_id": "tt1206326",
+    "tmdb_id": 44731,
+    "anidb_id": 5691,
+    "anilist_id": 3848,
+    "mal_id": 3848
+  },
+  {
+    "name": "One Piece Film: Strong World",
+    "year": 2009,
+    "kind": "movie",
+    "imdb_id": "tt1485763",
+    "tmdb_id": 41498,
+    "anidb_id": 6537,
+    "anilist_id": 4155,
+    "mal_id": 4155
+  },
+  {
+    "name": "One Piece 3D: Straw Hat Chase",
+    "year": 2011,
+    "kind": "movie",
+    "imdb_id": "tt1865467",
+    "tmdb_id": 79082,
+    "anidb_id": 8010,
+    "anilist_id": 9999,
+    "mal_id": 9999
+  },
+  {
+    "name": "One Piece Film: Z",
+    "year": 2012,
+    "kind": "movie",
+    "imdb_id": "tt2375379",
+    "tmdb_id": 176983,
+    "anidb_id": 8940,
+    "anilist_id": 12859,
+    "mal_id": 12859
+  },
+  {
+    "name": "One Piece Film: Gold",
+    "year": 2016,
+    "kind": "movie",
+    "imdb_id": "tt5251328",
+    "tmdb_id": 374205,
+    "anidb_id": 11529,
+    "anilist_id": 21335,
+    "mal_id": 31490
+  },
+  {
+    "name": "One Piece: Stampede",
+    "year": 2019,
+    "kind": "movie",
+    "imdb_id": "tt9430698",
+    "tmdb_id": 568012,
+    "anidb_id": 14318,
+    "anilist_id": 105143,
+    "mal_id": 38234
+  },
+  {
+    "name": "One Piece Film: Red",
+    "year": 2022,
+    "kind": "movie",
+    "imdb_id": "tt16183464",
+    "tmdb_id": 900667,
+    "anidb_id": 16983,
+    "anilist_id": 141902,
+    "mal_id": 50410
+  },
+  {
+    "name": "One Piece",
+    "year": 1999,
+    "kind": "series",
+    "imdb_id": "tt0388629",
+    "tmdb_id": 37854,
+    "tvdb_id": 81797,
+    "anidb_id": 69,
+    "anilist_id": 21,
+    "mal_id": 21
+  }
+]

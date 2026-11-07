@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Man of Steel",
+    "year": 2013,
+    "kind": "movie",
+    "imdb_id": "tt0770828",
+    "tmdb_id": 49521
+  },
+  {
+    "name": "Batman v Superman: Dawn of Justice",
+    "year": 2016,
+    "kind": "movie",
+    "imdb_id": "tt2975590",
+    "tmdb_id": 209112
+  },
+  {
+    "name": "Suicide Squad",
+    "year": 2016,
+    "kind": "movie",
+    "imdb_id": "tt1386697",
+    "tmdb_id": 297761
+  },
+  {
+    "name": "Wonder Woman",
+    "year": 2017,
+    "kind": "movie",
+    "imdb_id": "tt0451279",
+    "tmdb_id": 297762
+  },
+  {
+    "name": "Justice League",
+    "year": 2017,
+    "kind": "movie",
+    "imdb_id": "tt0974015",
+    "tmdb_id": 141052
+  },
+  {
+    "name": "Aquaman",
+    "year": 2018,
+    "kind": "movie",
+    "imdb_id": "tt1477834",
+    "tmdb_id": 297802
+  },
+  {
+    "name": "Shazam!",
+    "year": 2019,
+    "kind": "movie",
+    "imdb_id": "tt0448115",
+    "tmdb_id": 287947
+  },
+  {
+    "name": "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
+    "year": 2020,
+    "kind": "movie",
+    "imdb_id": "tt7713068",
+    "tmdb_id": 495764
+  },
+  {
+    "name": "Wonder Woman 1984",
+    "year": 2020,
+    "kind": "movie",
+    "imdb_id": "tt7126948",
+    "tmdb_id": 464052
+  },
+  {
+    "name": "Zack Snyder's Justice League",
+    "year": 2021,
+    "kind": "movie",
+    "imdb_id": "tt12361974",
+    "tmdb_id": 791373
+  },
+  {
+    "name": "The Suicide Squad",
+    "year": 2021,
+    "kind": "movie",
+    "imdb_id": "tt6334354",
+    "tmdb_id": 436969
+  },
+  {
+    "name": "Peacemaker",
+    "year": 2022,
+    "kind": "series",
+    "tvdb_id": 391153,
+    "season": 1,
+    "tvdb_season": "391153_1"
+  },
+  {
+    "name": "The Batman",
+    "year": 2022,
+    "kind": "movie",
+    "imdb_id": "tt1877830",
+    "tmdb_id": 414906
+  },
+  {
+    "name": "Black Adam",
+    "year": 2022,
+    "kind": "movie",
+    "imdb_id": "tt6443346",
+    "tmdb_id": 436270
+  },
+  {
+    "name": "Shazam! Fury of the Gods",
+    "year": 2023,
+    "kind": "movie",
+    "imdb_id": "tt10151854",
+    "tmdb_id": 594767
+  },
+  {
+    "name": "The Flash",
+    "year": 2023,
+    "kind": "movie",
+    "imdb_id": "tt0439572",
+    "tmdb_id": 298618
+  },
+  {
+    "name": "Blue Beetle",
+    "year": 2023,
+    "kind": "movie",
+    "imdb_id": "tt9362930",
+    "tmdb_id": 565770
+  },
+  {
+    "name": "Aquaman and the Lost Kingdom",
+    "year": 2023,
+    "kind": "movie",
+    "imdb_id": "tt9663764",
+    "tmdb_id": 572802
+  },
+  {
+    "name": "The Penguin",
+    "year": 2024,
+    "kind": "series",
+    "imdb_id": "tt15435876",
+    "tmdb_id": 194764,
+    "tvdb_id": 417648
+  },
+  {
+    "name": "Creature Commandos",
+    "year": 2024,
+    "kind": "series",
+    "imdb_id": "tt26545355",
+    "tmdb_id": 219543,
+    "tvdb_id": 430518
+  },
+  {
+    "name": "Superman",
+    "year": 2025,
+    "kind": "movie",
+    "imdb_id": "tt5950044",
+    "tmdb_id": 1061474
+  },
+  {
+    "name": "Peacemaker",
+    "year": 2022,
+    "kind": "series",
+    "tvdb_id": 391153,
+    "season": 2,
+    "tvdb_season": "391153_2"
+  },
+  {
+    "name": "Supergirl",
+    "year": 2026,
+    "kind": "movie",
+    "imdb_id": "tt8814476",
+    "tmdb_id": 1081003
+  },
+  {
+    "name": "Lanterns",
+    "year": 2026,
+    "kind": "series",
+    "imdb_id": "tt26545992",
+    "tmdb_id": 95350,
+    "tvdb_id": 376098
+  },
+  {
+    "name": "Clayface",
+    "year": 2026,
+    "kind": "movie",
+    "imdb_id": "tt34890576",
+    "tmdb_id": 1400940
+  }
+]

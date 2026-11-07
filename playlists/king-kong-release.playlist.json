@@ -1,0 +1,72 @@
+[
+  {
+    "name": "King Kong",
+    "year": 1933,
+    "kind": "movie",
+    "imdb_id": "tt0024216",
+    "tmdb_id": 244
+  },
+  {
+    "name": "The Son of Kong",
+    "year": 1933,
+    "kind": "movie",
+    "imdb_id": "tt0024593",
+    "tmdb_id": 43149
+  },
+  {
+    "name": "King Kong vs. Godzilla",
+    "year": 1962,
+    "kind": "movie",
+    "imdb_id": "tt13364334",
+    "tmdb_id": 1680
+  },
+  {
+    "name": "King Kong Escapes",
+    "year": 1967,
+    "kind": "movie",
+    "imdb_id": "tt0061868",
+    "tmdb_id": 39276
+  },
+  {
+    "name": "King Kong",
+    "year": 1976,
+    "kind": "movie",
+    "imdb_id": "tt0074751",
+    "tmdb_id": 10730
+  },
+  {
+    "name": "King Kong Lives",
+    "year": 1986,
+    "kind": "movie",
+    "imdb_id": "tt0091344",
+    "tmdb_id": 31947
+  },
+  {
+    "name": "King Kong",
+    "year": 2005,
+    "kind": "movie",
+    "imdb_id": "tt0360717",
+    "tmdb_id": 254
+  },
+  {
+    "name": "Kong: Skull Island",
+    "year": 2017,
+    "kind": "movie",
+    "imdb_id": "tt3731562",
+    "tmdb_id": 293167
+  },
+  {
+    "name": "Godzilla vs. Kong",
+    "year": 2021,
+    "kind": "movie",
+    "imdb_id": "tt5034838",
+    "tmdb_id": 399566
+  },
+  {
+    "name": "Godzilla x Kong: The New Empire",
+    "year": 2024,
+    "kind": "movie",
+    "imdb_id": "tt14539740",
+    "tmdb_id": 823464
+  }
+]

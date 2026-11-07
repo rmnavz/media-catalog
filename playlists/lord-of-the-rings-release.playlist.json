@@ -1,0 +1,67 @@
+[
+  {
+    "name": "The Lord of the Rings: The Fellowship of the Ring",
+    "year": 2001,
+    "kind": "movie",
+    "imdb_id": "tt0120737",
+    "tmdb_id": 120
+  },
+  {
+    "name": "The Lord of the Rings: The Two Towers",
+    "year": 2002,
+    "kind": "movie",
+    "imdb_id": "tt0167261",
+    "tmdb_id": 121
+  },
+  {
+    "name": "The Lord of the Rings: The Return of the King",
+    "year": 2003,
+    "kind": "movie",
+    "imdb_id": "tt0167260",
+    "tmdb_id": 122
+  },
+  {
+    "name": "The Hobbit: An Unexpected Journey",
+    "year": 2012,
+    "kind": "movie",
+    "imdb_id": "tt0903624",
+    "tmdb_id": 49051
+  },
+  {
+    "name": "The Hobbit: The Desolation of Smaug",
+    "year": 2013,
+    "kind": "movie",
+    "imdb_id": "tt1170358",
+    "tmdb_id": 57158
+  },
+  {
+    "name": "The Hobbit: The Battle of the Five Armies",
+    "year": 2014,
+    "kind": "movie",
+    "imdb_id": "tt2310332",
+    "tmdb_id": 122917
+  },
+  {
+    "name": "The Lord of the Rings: The Rings of Power",
+    "year": 2022,
+    "kind": "series",
+    "tvdb_id": 367506,
+    "season": 1,
+    "tvdb_season": "367506_1"
+  },
+  {
+    "name": "The Lord of the Rings: The Rings of Power",
+    "year": 2022,
+    "kind": "series",
+    "tvdb_id": 367506,
+    "season": 2,
+    "tvdb_season": "367506_2"
+  },
+  {
+    "name": "The Lord of the Rings: The War of the Rohirrim",
+    "year": 2024,
+    "kind": "movie",
+    "imdb_id": "tt14824600",
+    "tmdb_id": 839033
+  }
+]

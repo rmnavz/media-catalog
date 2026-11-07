@@ -1,0 +1,124 @@
+[
+  {
+    "name": "X-Men",
+    "year": 2000,
+    "kind": "movie",
+    "imdb_id": "tt0120903",
+    "tmdb_id": 36657
+  },
+  {
+    "name": "X2",
+    "year": 2003,
+    "kind": "movie",
+    "imdb_id": "tt0290334",
+    "tmdb_id": 36658
+  },
+  {
+    "name": "X-Men: The Last Stand",
+    "year": 2006,
+    "kind": "movie",
+    "imdb_id": "tt0376994",
+    "tmdb_id": 36668
+  },
+  {
+    "name": "X-Men Origins: Wolverine",
+    "year": 2009,
+    "kind": "movie",
+    "imdb_id": "tt0458525",
+    "tmdb_id": 2080
+  },
+  {
+    "name": "X-Men: First Class",
+    "year": 2011,
+    "kind": "movie",
+    "imdb_id": "tt1270798",
+    "tmdb_id": 49538
+  },
+  {
+    "name": "The Wolverine",
+    "year": 2013,
+    "kind": "movie",
+    "imdb_id": "tt1430132",
+    "tmdb_id": 76170
+  },
+  {
+    "name": "X-Men: Days of Future Past",
+    "year": 2014,
+    "kind": "movie",
+    "imdb_id": "tt1877832",
+    "tmdb_id": 127585
+  },
+  {
+    "name": "Deadpool",
+    "year": 2016,
+    "kind": "movie",
+    "imdb_id": "tt1431045",
+    "tmdb_id": 293660
+  },
+  {
+    "name": "X-Men: Apocalypse",
+    "year": 2016,
+    "kind": "movie",
+    "imdb_id": "tt3385516",
+    "tmdb_id": 246655
+  },
+  {
+    "name": "Legion",
+    "year": 2017,
+    "kind": "series",
+    "imdb_id": "tt5114356",
+    "tmdb_id": 67195,
+    "tvdb_id": 320724
+  },
+  {
+    "name": "Logan",
+    "year": 2017,
+    "kind": "movie",
+    "imdb_id": "tt3315342",
+    "tmdb_id": 263115
+  },
+  {
+    "name": "The Gifted",
+    "year": 2017,
+    "kind": "series",
+    "imdb_id": "tt4396630",
+    "tmdb_id": 69629,
+    "tvdb_id": 328552
+  },
+  {
+    "name": "Deadpool 2",
+    "year": 2018,
+    "kind": "movie",
+    "imdb_id": "tt5463162",
+    "tmdb_id": 383498
+  },
+  {
+    "name": "Dark Phoenix",
+    "year": 2019,
+    "kind": "movie",
+    "imdb_id": "tt6565702",
+    "tmdb_id": 320288
+  },
+  {
+    "name": "The New Mutants",
+    "year": 2020,
+    "kind": "movie",
+    "imdb_id": "tt4682266",
+    "tmdb_id": 340102
+  },
+  {
+    "name": "X-Men '97",
+    "year": 2024,
+    "kind": "series",
+    "imdb_id": "tt16026746",
+    "tmdb_id": 138502,
+    "tvdb_id": 412432
+  },
+  {
+    "name": "Deadpool & Wolverine",
+    "year": 2024,
+    "kind": "movie",
+    "imdb_id": "tt6263850",
+    "tmdb_id": 533535
+  }
+]

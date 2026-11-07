@@ -1,0 +1,63 @@
+[
+  {
+    "name": "The End of Evangelion",
+    "year": 1997,
+    "kind": "movie",
+    "imdb_id": "tt0169858",
+    "tmdb_id": 18491,
+    "anidb_id": 202,
+    "anilist_id": 32,
+    "mal_id": 32
+  },
+  {
+    "name": "Evangelion: 1.0 You Are (Not) Alone",
+    "year": 2007,
+    "kind": "movie",
+    "imdb_id": "tt0923811",
+    "tmdb_id": 15137,
+    "anidb_id": 4847,
+    "anilist_id": 2759,
+    "mal_id": 2759
+  },
+  {
+    "name": "Evangelion: 2.0 You Can (Not) Advance",
+    "year": 2009,
+    "kind": "movie",
+    "imdb_id": "tt0860906",
+    "tmdb_id": 22843,
+    "anidb_id": 6171,
+    "anilist_id": 3784,
+    "mal_id": 3784
+  },
+  {
+    "name": "Evangelion: 3.0 You Can (Not) Redo",
+    "year": 2012,
+    "kind": "movie",
+    "imdb_id": "tt0860907",
+    "tmdb_id": 75629,
+    "anidb_id": 7565,
+    "anilist_id": 3785,
+    "mal_id": 3785
+  },
+  {
+    "name": "Evangelion: 3.0+1.0 Thrice Upon a Time",
+    "year": 2021,
+    "kind": "movie",
+    "imdb_id": "tt2458948",
+    "tmdb_id": 283566,
+    "anidb_id": 8895,
+    "anilist_id": 3786,
+    "mal_id": 3786
+  },
+  {
+    "name": "Neon Genesis Evangelion",
+    "year": 1995,
+    "kind": "series",
+    "imdb_id": "tt0112159",
+    "tmdb_id": 890,
+    "tvdb_id": 70350,
+    "anidb_id": 22,
+    "anilist_id": 30,
+    "mal_id": 30
+  }
+]

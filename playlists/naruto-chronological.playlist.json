@@ -1,0 +1,55 @@
+[
+  {
+    "name": "Naruto",
+    "year": 2002,
+    "kind": "series",
+    "imdb_id": "tt0409591",
+    "tmdb_id": 46260,
+    "tvdb_id": 78857,
+    "anidb_id": 239,
+    "anilist_id": 20,
+    "mal_id": 20
+  },
+  {
+    "name": "Naruto: Shippuden",
+    "year": 2007,
+    "kind": "series",
+    "imdb_id": "tt0988824",
+    "tmdb_id": 31910,
+    "tvdb_id": 79824,
+    "anidb_id": 4880,
+    "anilist_id": 1735,
+    "mal_id": 1735
+  },
+  {
+    "name": "The Last: Naruto the Movie",
+    "year": 2014,
+    "kind": "movie",
+    "imdb_id": "tt3717532",
+    "tmdb_id": 317442,
+    "anidb_id": 9588,
+    "anilist_id": 16870,
+    "mal_id": 16870
+  },
+  {
+    "name": "Boruto: Naruto the Movie",
+    "year": 2015,
+    "kind": "movie",
+    "imdb_id": "tt4618398",
+    "tmdb_id": 347201,
+    "anidb_id": 10961,
+    "anilist_id": 21220,
+    "mal_id": 28755
+  },
+  {
+    "name": "Boruto: Naruto Next Generations",
+    "year": 2017,
+    "kind": "series",
+    "imdb_id": "tt6342474",
+    "tmdb_id": 70881,
+    "tvdb_id": 321285,
+    "anidb_id": 12661,
+    "anilist_id": 97938,
+    "mal_id": 34566
+  }
+]

@@ -1,0 +1,196 @@
+[
+  {
+    "name": "Star Trek: The Original Series",
+    "year": 1966,
+    "kind": "series",
+    "imdb_id": "tt0060028",
+    "tmdb_id": 253,
+    "tvdb_id": 77526
+  },
+  {
+    "name": "Star Trek: The Animated Series",
+    "year": 1973,
+    "kind": "series",
+    "imdb_id": "tt0069637",
+    "tmdb_id": 1992,
+    "tvdb_id": 73566
+  },
+  {
+    "name": "Star Trek: The Motion Picture",
+    "year": 1979,
+    "kind": "movie",
+    "imdb_id": "tt0079945",
+    "tmdb_id": 152
+  },
+  {
+    "name": "Star Trek II: The Wrath of Khan",
+    "year": 1982,
+    "kind": "movie",
+    "imdb_id": "tt0084726",
+    "tmdb_id": 154
+  },
+  {
+    "name": "Star Trek III: The Search for Spock",
+    "year": 1984,
+    "kind": "movie",
+    "imdb_id": "tt0088170",
+    "tmdb_id": 157
+  },
+  {
+    "name": "Star Trek IV: The Voyage Home",
+    "year": 1986,
+    "kind": "movie",
+    "imdb_id": "tt0092007",
+    "tmdb_id": 168
+  },
+  {
+    "name": "Star Trek: The Next Generation",
+    "year": 1987,
+    "kind": "series",
+    "imdb_id": "tt0092455",
+    "tmdb_id": 655,
+    "tvdb_id": 71470
+  },
+  {
+    "name": "Star Trek V: The Final Frontier",
+    "year": 1989,
+    "kind": "movie",
+    "imdb_id": "tt0098382",
+    "tmdb_id": 172
+  },
+  {
+    "name": "Star Trek VI: The Undiscovered Country",
+    "year": 1991,
+    "kind": "movie",
+    "imdb_id": "tt0102975",
+    "tmdb_id": 174
+  },
+  {
+    "name": "Star Trek: Deep Space Nine",
+    "year": 1993,
+    "kind": "series",
+    "imdb_id": "tt0106145",
+    "tmdb_id": 580,
+    "tvdb_id": 72073
+  },
+  {
+    "name": "Star Trek Generations",
+    "year": 1994,
+    "kind": "movie",
+    "imdb_id": "tt0111280",
+    "tmdb_id": 193
+  },
+  {
+    "name": "Star Trek: Voyager",
+    "year": 1995,
+    "kind": "series",
+    "imdb_id": "tt0112178",
+    "tmdb_id": 1855,
+    "tvdb_id": 74550
+  },
+  {
+    "name": "Star Trek: First Contact",
+    "year": 1996,
+    "kind": "movie",
+    "imdb_id": "tt0117731",
+    "tmdb_id": 199
+  },
+  {
+    "name": "Star Trek: Insurrection",
+    "year": 1998,
+    "kind": "movie",
+    "imdb_id": "tt0120844",
+    "tmdb_id": 200
+  },
+  {
+    "name": "Star Trek: Enterprise",
+    "year": 2001,
+    "kind": "series",
+    "imdb_id": "tt0244365",
+    "tmdb_id": 314,
+    "tvdb_id": 73893
+  },
+  {
+    "name": "Star Trek: Nemesis",
+    "year": 2002,
+    "kind": "movie",
+    "imdb_id": "tt0253754",
+    "tmdb_id": 201
+  },
+  {
+    "name": "Star Trek",
+    "year": 2009,
+    "kind": "movie",
+    "imdb_id": "tt0796366",
+    "tmdb_id": 13475
+  },
+  {
+    "name": "Star Trek Into Darkness",
+    "year": 2013,
+    "kind": "movie",
+    "imdb_id": "tt1408101",
+    "tmdb_id": 54138
+  },
+  {
+    "name": "Star Trek Beyond",
+    "year": 2016,
+    "kind": "movie",
+    "imdb_id": "tt2660888",
+    "tmdb_id": 188927
+  },
+  {
+    "name": "Star Trek: Discovery",
+    "year": 2017,
+    "kind": "series",
+    "imdb_id": "tt5171438",
+    "tmdb_id": 67198,
+    "tvdb_id": 328711
+  },
+  {
+    "name": "Star Trek: Lower Decks",
+    "year": 2020,
+    "kind": "series",
+    "imdb_id": "tt9184820",
+    "tmdb_id": 85948,
+    "tvdb_id": 367138
+  },
+  {
+    "name": "Star Trek: Picard",
+    "year": 2020,
+    "kind": "series",
+    "imdb_id": "tt8806524",
+    "tmdb_id": 85949,
+    "tvdb_id": 364093
+  },
+  {
+    "name": "Star Trek: Prodigy",
+    "year": 2021,
+    "kind": "series",
+    "imdb_id": "tt9795876",
+    "tmdb_id": 106393,
+    "tvdb_id": 385811
+  },
+  {
+    "name": "Star Trek: Strange New Worlds",
+    "year": 2022,
+    "kind": "series",
+    "imdb_id": "tt12327578",
+    "tmdb_id": 103516,
+    "tvdb_id": 382389
+  },
+  {
+    "name": "Star Trek: Section 31",
+    "year": 2025,
+    "kind": "movie",
+    "imdb_id": "tt9603060",
+    "tmdb_id": 1114894
+  },
+  {
+    "name": "Star Trek: Starfleet Academy",
+    "year": 2026,
+    "kind": "series",
+    "imdb_id": "tt8622160",
+    "tmdb_id": 223530,
+    "tvdb_id": 433120
+  }
+]

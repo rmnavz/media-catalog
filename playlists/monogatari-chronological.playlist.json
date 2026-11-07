@@ -1,0 +1,153 @@
+[
+  {
+    "name": "Kizumonogatari Part 1: Tekketsu",
+    "year": 2016,
+    "kind": "movie",
+    "imdb_id": "tt3138698",
+    "tmdb_id": 357786,
+    "anidb_id": 8357,
+    "anilist_id": 9260,
+    "mal_id": 9260
+  },
+  {
+    "name": "Kizumonogatari Part 2: Nekketsu",
+    "year": 2016,
+    "kind": "movie",
+    "imdb_id": "tt5084196",
+    "tmdb_id": 362584,
+    "anidb_id": 8357,
+    "anilist_id": 21399,
+    "mal_id": 31757
+  },
+  {
+    "name": "Kizumonogatari Part 3: Reiketsu",
+    "year": 2017,
+    "kind": "movie",
+    "imdb_id": "tt5084198",
+    "tmdb_id": 362585,
+    "anidb_id": 8357,
+    "anilist_id": 21400,
+    "mal_id": 31758
+  },
+  {
+    "name": "Bakemonogatari",
+    "year": 2009,
+    "kind": "series",
+    "imdb_id": "tt1480925",
+    "tmdb_id": 46195,
+    "tvdb_id": 102261,
+    "anidb_id": 6327,
+    "anilist_id": 5081,
+    "mal_id": 5081
+  },
+  {
+    "name": "Nisemonogatari",
+    "year": 2012,
+    "kind": "series",
+    "anidb_id": 8658,
+    "anilist_id": 11597,
+    "mal_id": 11597,
+    "imdb_id": "tt1480925",
+    "tmdb_id": 46195,
+    "tvdb_id": 102261
+  },
+  {
+    "name": "Nekomonogatari Black",
+    "year": 2012,
+    "kind": "series",
+    "anidb_id": 9453,
+    "anilist_id": 15689,
+    "mal_id": 15689,
+    "imdb_id": "tt1480925",
+    "tmdb_id": 46195,
+    "tvdb_id": 102261
+  },
+  {
+    "name": "Monogatari Series: Second Season",
+    "year": 2013,
+    "kind": "series",
+    "anidb_id": 9183,
+    "anilist_id": 17074,
+    "mal_id": 17074,
+    "imdb_id": "tt1480925",
+    "tmdb_id": 46195,
+    "tvdb_id": 102261
+  },
+  {
+    "name": "Hanamonogatari",
+    "year": 2014,
+    "kind": "series",
+    "anidb_id": 10046,
+    "anilist_id": 20593,
+    "mal_id": 21855,
+    "imdb_id": "tt1480925",
+    "tmdb_id": 46195,
+    "tvdb_id": 102261
+  },
+  {
+    "name": "Tsukimonogatari",
+    "year": 2014,
+    "kind": "series",
+    "anidb_id": 10891,
+    "anilist_id": 20918,
+    "mal_id": 28025,
+    "imdb_id": "tt1480925",
+    "tmdb_id": 46195,
+    "tvdb_id": 102261
+  },
+  {
+    "name": "Owarimonogatari",
+    "year": 2015,
+    "kind": "series",
+    "anidb_id": 11350,
+    "anilist_id": 21262,
+    "mal_id": 31181,
+    "imdb_id": "tt1480925",
+    "tmdb_id": 46195,
+    "tvdb_id": 102261
+  },
+  {
+    "name": "Koyomimonogatari",
+    "year": 2016,
+    "kind": "series",
+    "anidb_id": 11827,
+    "anilist_id": 21520,
+    "mal_id": 32268,
+    "imdb_id": "tt1480925",
+    "tmdb_id": 46195,
+    "tvdb_id": 102261
+  },
+  {
+    "name": "Owarimonogatari Second Season",
+    "year": 2017,
+    "kind": "series",
+    "anidb_id": 13033,
+    "anilist_id": 21745,
+    "mal_id": 35247,
+    "imdb_id": "tt1480925",
+    "tmdb_id": 46195,
+    "tvdb_id": 102261
+  },
+  {
+    "name": "Zoku Owarimonogatari",
+    "year": 2018,
+    "kind": "series",
+    "anidb_id": 13691,
+    "anilist_id": 100815,
+    "mal_id": 36999,
+    "imdb_id": "tt1480925",
+    "tmdb_id": 46195,
+    "tvdb_id": 102261
+  },
+  {
+    "name": "MONOGATARI Series: OFF & MONSTER Season",
+    "year": 2024,
+    "kind": "series",
+    "anidb_id": 18424,
+    "anilist_id": 173533,
+    "mal_id": 57864,
+    "imdb_id": "tt1480925",
+    "tmdb_id": 46195,
+    "tvdb_id": 102261
+  }
+]

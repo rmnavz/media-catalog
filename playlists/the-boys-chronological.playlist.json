@@ -1,0 +1,66 @@
+[
+  {
+    "name": "The Boys",
+    "year": 2019,
+    "kind": "series",
+    "tvdb_id": 355567,
+    "season": 1,
+    "tvdb_season": "355567_1"
+  },
+  {
+    "name": "The Boys",
+    "year": 2019,
+    "kind": "series",
+    "tvdb_id": 355567,
+    "season": 2,
+    "tvdb_season": "355567_2"
+  },
+  {
+    "name": "The Boys Presents: Diabolical",
+    "year": 2022,
+    "kind": "series",
+    "tvdb_id": 413188,
+    "season": 1,
+    "tvdb_season": "413188_1"
+  },
+  {
+    "name": "The Boys",
+    "year": 2019,
+    "kind": "series",
+    "tvdb_id": 355567,
+    "season": 3,
+    "tvdb_season": "355567_3"
+  },
+  {
+    "name": "Gen V",
+    "year": 2023,
+    "kind": "series",
+    "tvdb_id": 417909,
+    "season": 1,
+    "tvdb_season": "417909_1"
+  },
+  {
+    "name": "The Boys",
+    "year": 2019,
+    "kind": "series",
+    "tvdb_id": 355567,
+    "season": 4,
+    "tvdb_season": "355567_4"
+  },
+  {
+    "name": "Gen V",
+    "year": 2023,
+    "kind": "series",
+    "tvdb_id": 417909,
+    "season": 2,
+    "tvdb_season": "417909_2"
+  },
+  {
+    "name": "The Boys",
+    "year": 2019,
+    "kind": "series",
+    "tvdb_id": 355567,
+    "season": 5,
+    "tvdb_season": "355567_5"
+  }
+]

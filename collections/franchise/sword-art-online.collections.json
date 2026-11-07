@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Sword Art Online the Movie: Ordinal Scale",
+    "year": 2017,
+    "kind": "movie",
+    "imdb_id": "tt5544384",
+    "tmdb_id": 413594,
+    "anidb_id": 11681,
+    "anilist_id": 21403,
+    "mal_id": 31765
+  },
+  {
+    "name": "Sword Art Online Progressive: Aria of a Starless Night",
+    "year": 2021,
+    "kind": "movie",
+    "imdb_id": "tt13424422",
+    "tmdb_id": 761898,
+    "anidb_id": 15735,
+    "anilist_id": 124140,
+    "mal_id": 42916
+  },
+  {
+    "name": "Sword Art Online Progressive: Scherzo of Deep Night",
+    "year": 2022,
+    "kind": "movie",
+    "imdb_id": "tt15830702",
+    "tmdb_id": 893712,
+    "anidb_id": 16951,
+    "anilist_id": 140999,
+    "mal_id": 50275
+  },
+  {
+    "name": "Sword Art Online",
+    "year": 2012,
+    "kind": "series",
+    "imdb_id": "tt2250192",
+    "tmdb_id": 45782,
+    "tvdb_id": 259640,
+    "anidb_id": 8692,
+    "anilist_id": 11757,
+    "mal_id": 11757
+  },
+  {
+    "name": "Sword Art Online Alternative: Gun Gale Online",
+    "year": 2018,
+    "kind": "series",
+    "imdb_id": "tt7978710",
+    "tmdb_id": 78204,
+    "tvdb_id": 335815,
+    "anidb_id": 13494,
+    "anilist_id": 100183,
+    "mal_id": 36475
+  }
+]

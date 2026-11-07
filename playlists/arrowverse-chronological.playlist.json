@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Arrow",
+    "year": 2012,
+    "kind": "series",
+    "imdb_id": "tt2193021",
+    "tmdb_id": 1412,
+    "tvdb_id": 257655
+  },
+  {
+    "name": "The Flash",
+    "year": 2014,
+    "kind": "series",
+    "imdb_id": "tt3107288",
+    "tmdb_id": 60735,
+    "tvdb_id": 279121
+  },
+  {
+    "name": "Supergirl",
+    "year": 2015,
+    "kind": "series",
+    "imdb_id": "tt4016454",
+    "tmdb_id": 62688,
+    "tvdb_id": 295759
+  },
+  {
+    "name": "Constantine",
+    "year": 2014,
+    "kind": "series",
+    "imdb_id": "tt3489184",
+    "tmdb_id": 60743,
+    "tvdb_id": 273690
+  },
+  {
+    "name": "DC's Legends of Tomorrow",
+    "year": 2016,
+    "kind": "series",
+    "imdb_id": "tt4532368",
+    "tmdb_id": 62643,
+    "tvdb_id": 295760
+  },
+  {
+    "name": "Black Lightning",
+    "year": 2018,
+    "kind": "series",
+    "imdb_id": "tt6045840",
+    "tmdb_id": 71663,
+    "tvdb_id": 332525
+  },
+  {
+    "name": "Batwoman",
+    "year": 2019,
+    "kind": "series",
+    "imdb_id": "tt8712204",
+    "tmdb_id": 89247,
+    "tvdb_id": 361315
+  },
+  {
+    "name": "Superman & Lois",
+    "year": 2021,
+    "kind": "series",
+    "imdb_id": "tt11192306",
+    "tmdb_id": 95057,
+    "tvdb_id": 375655
+  }
+]

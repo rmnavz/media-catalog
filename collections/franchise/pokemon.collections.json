@@ -1,0 +1,320 @@
+[
+  {
+    "name": "Pokémon: The First Movie",
+    "year": 1998,
+    "kind": "movie",
+    "imdb_id": "tt0190641",
+    "tmdb_id": 10228,
+    "anidb_id": 990,
+    "anilist_id": 528,
+    "mal_id": 528
+  },
+  {
+    "name": "Pokémon the Movie 2000",
+    "year": 1999,
+    "kind": "movie",
+    "imdb_id": "tt0210234",
+    "tmdb_id": 12599,
+    "anidb_id": 1020,
+    "anilist_id": 1117,
+    "mal_id": 1117
+  },
+  {
+    "name": "Pokémon 3: The Movie",
+    "year": 2000,
+    "kind": "movie",
+    "imdb_id": "tt0235679",
+    "tmdb_id": 10991,
+    "anidb_id": 992,
+    "anilist_id": 1118,
+    "mal_id": 1118
+  },
+  {
+    "name": "Pokémon 4Ever",
+    "year": 2001,
+    "kind": "movie",
+    "imdb_id": "tt0287635",
+    "tmdb_id": 12600,
+    "anidb_id": 991,
+    "anilist_id": 1119,
+    "mal_id": 1119
+  },
+  {
+    "name": "Pokémon Heroes",
+    "year": 2002,
+    "kind": "movie",
+    "imdb_id": "tt0347791",
+    "tmdb_id": 33875,
+    "anidb_id": 921,
+    "anilist_id": 1120,
+    "mal_id": 1120
+  },
+  {
+    "name": "Pokémon: Jirachi — Wish Maker",
+    "year": 2003,
+    "kind": "movie",
+    "imdb_id": "tt0420076",
+    "tmdb_id": 36218,
+    "anidb_id": 1804,
+    "anilist_id": 1121,
+    "mal_id": 1121
+  },
+  {
+    "name": "Pokémon: Destiny Deoxys",
+    "year": 2004,
+    "kind": "movie",
+    "imdb_id": "tt0435286",
+    "tmdb_id": 34065,
+    "anidb_id": 2371,
+    "anilist_id": 1122,
+    "mal_id": 1122
+  },
+  {
+    "name": "Pokémon: Lucario and the Mystery of Mew",
+    "year": 2005,
+    "kind": "movie",
+    "imdb_id": "tt0875609",
+    "tmdb_id": 34067,
+    "anidb_id": 2848,
+    "anilist_id": 1526,
+    "mal_id": 1526
+  },
+  {
+    "name": "Pokémon Ranger and the Temple of the Sea",
+    "year": 2006,
+    "kind": "movie",
+    "imdb_id": "tt1000095",
+    "tmdb_id": 16808,
+    "anidb_id": 4199,
+    "anilist_id": 2201,
+    "mal_id": 2201
+  },
+  {
+    "name": "Pokémon: The Rise of Darkrai",
+    "year": 2007,
+    "kind": "movie",
+    "imdb_id": "tt1226251",
+    "tmdb_id": 25961,
+    "anidb_id": 5048,
+    "anilist_id": 2847,
+    "mal_id": 2847
+  },
+  {
+    "name": "Pokémon: Giratina and the Sky Warrior",
+    "year": 2008,
+    "kind": "movie",
+    "imdb_id": "tt1216473",
+    "tmdb_id": 19667,
+    "anidb_id": 5772,
+    "anilist_id": 4026,
+    "mal_id": 4026
+  },
+  {
+    "name": "Pokémon: Arceus and the Jewel of Life",
+    "year": 2009,
+    "kind": "movie",
+    "imdb_id": "tt1468843",
+    "tmdb_id": 39057,
+    "anidb_id": 6316,
+    "anilist_id": 6178,
+    "mal_id": 6178
+  },
+  {
+    "name": "Pokémon: Zoroark: Master of Illusions",
+    "year": 2010,
+    "kind": "movie",
+    "imdb_id": "tt1698640",
+    "tmdb_id": 44992,
+    "anidb_id": 7257,
+    "anilist_id": 7695,
+    "mal_id": 7695
+  },
+  {
+    "name": "Pokémon the Movie: Black—Victini and Reshiram",
+    "year": 2011,
+    "kind": "movie",
+    "imdb_id": "tt1969467",
+    "tmdb_id": 70304,
+    "anidb_id": 8269,
+    "anilist_id": 10740,
+    "mal_id": 10740
+  },
+  {
+    "name": "Pokémon the Movie: Kyurem vs. the Sword of Justice",
+    "year": 2012,
+    "kind": "movie",
+    "imdb_id": "tt2549540",
+    "tmdb_id": 150213,
+    "anidb_id": 8826,
+    "anilist_id": 12671,
+    "mal_id": 12671
+  },
+  {
+    "name": "Pokémon the Movie: Genesect and the Legend Awakened",
+    "year": 2013,
+    "kind": "movie",
+    "imdb_id": "tt2926092",
+    "tmdb_id": 195793,
+    "anidb_id": 9564,
+    "anilist_id": 16680,
+    "mal_id": 16680
+  },
+  {
+    "name": "Pokémon the Movie: Diancie and the Cocoon of Destruction",
+    "year": 2014,
+    "kind": "movie",
+    "imdb_id": "tt3707870",
+    "tmdb_id": 273881,
+    "anidb_id": 10318,
+    "anilist_id": 20644,
+    "mal_id": 21569
+  },
+  {
+    "name": "Pokémon the Movie: Hoopa and the Clash of Ages",
+    "year": 2015,
+    "kind": "movie",
+    "imdb_id": "tt4503906",
+    "tmdb_id": 350499,
+    "anidb_id": 10966,
+    "anilist_id": 21266,
+    "mal_id": 25805
+  },
+  {
+    "name": "Pokémon the Movie: Volcanion and the Mechanical Marvel",
+    "year": 2016,
+    "kind": "movie",
+    "imdb_id": "tt5889204",
+    "tmdb_id": 382190,
+    "anidb_id": 11842,
+    "anilist_id": 21651,
+    "mal_id": 31231
+  },
+  {
+    "name": "Pokémon the Movie: I Choose You!",
+    "year": 2017,
+    "kind": "movie",
+    "imdb_id": "tt6595896",
+    "tmdb_id": 436931,
+    "anidb_id": 12646,
+    "anilist_id": 98298,
+    "mal_id": 34540
+  },
+  {
+    "name": "Pokémon the Movie: The Power of Us",
+    "year": 2018,
+    "kind": "movie",
+    "imdb_id": "tt8108230",
+    "tmdb_id": 494407,
+    "anidb_id": 13649,
+    "anilist_id": 100744,
+    "mal_id": 36927
+  },
+  {
+    "name": "Pokémon: Mewtwo Strikes Back—Evolution",
+    "year": 2019,
+    "kind": "movie",
+    "imdb_id": "tt8856470",
+    "tmdb_id": 571891,
+    "anidb_id": 14215,
+    "anilist_id": 106287,
+    "mal_id": 37966
+  },
+  {
+    "name": "Pokémon the Movie: Secrets of the Jungle",
+    "year": 2020,
+    "kind": "movie",
+    "imdb_id": "tt11819890",
+    "tmdb_id": 662708,
+    "anidb_id": 14993,
+    "anilist_id": 114564,
+    "mal_id": 40881
+  },
+  {
+    "name": "Pokémon",
+    "year": 1997,
+    "kind": "series",
+    "imdb_id": "tt0168366",
+    "tmdb_id": 60572,
+    "tvdb_id": 76703,
+    "anidb_id": 230,
+    "anilist_id": 527,
+    "mal_id": 527
+  },
+  {
+    "name": "Pokémon: Advanced",
+    "year": 2002,
+    "kind": "series",
+    "anidb_id": 1041,
+    "anilist_id": 1564,
+    "mal_id": 1564,
+    "imdb_id": "tt0168366",
+    "tmdb_id": 60572,
+    "tvdb_id": 76703
+  },
+  {
+    "name": "Pokémon the Series: Diamond and Pearl",
+    "year": 2006,
+    "kind": "series",
+    "anidb_id": 4728,
+    "anilist_id": 1565,
+    "mal_id": 1565,
+    "imdb_id": "tt0168366",
+    "tmdb_id": 60572,
+    "tvdb_id": 76703
+  },
+  {
+    "name": "Pokémon: Black & White",
+    "year": 2010,
+    "kind": "series",
+    "anidb_id": 7891,
+    "anilist_id": 9107,
+    "mal_id": 9107,
+    "imdb_id": "tt0168366",
+    "tmdb_id": 60572,
+    "tvdb_id": 76703
+  },
+  {
+    "name": "Pokémon the Series: XY",
+    "year": 2013,
+    "kind": "series",
+    "anidb_id": 9956,
+    "anilist_id": 19291,
+    "mal_id": 19291,
+    "imdb_id": "tt0168366",
+    "tmdb_id": 60572,
+    "tvdb_id": 76703
+  },
+  {
+    "name": "Pokémon the Series: Sun & Moon",
+    "year": 2016,
+    "kind": "series",
+    "anidb_id": 12407,
+    "anilist_id": 97634,
+    "mal_id": 34034,
+    "imdb_id": "tt0168366",
+    "tmdb_id": 60572,
+    "tvdb_id": 76703
+  },
+  {
+    "name": "Pokémon Journeys: The Series",
+    "year": 2019,
+    "kind": "series",
+    "anidb_id": 15067,
+    "anilist_id": 112153,
+    "mal_id": 40351,
+    "imdb_id": "tt0168366",
+    "tmdb_id": 60572,
+    "tvdb_id": 76703
+  },
+  {
+    "name": "Pokémon Horizons: The Series",
+    "year": 2023,
+    "kind": "series",
+    "imdb_id": "tt26692417",
+    "tmdb_id": 220150,
+    "anidb_id": 17777,
+    "anilist_id": 158871,
+    "mal_id": 53876,
+    "tvdb_id": 433862
+  }
+]

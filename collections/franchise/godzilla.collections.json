@@ -1,0 +1,275 @@
+[
+  {
+    "name": "Godzilla",
+    "year": 1954,
+    "kind": "movie",
+    "imdb_id": "tt0047034",
+    "tmdb_id": 1678
+  },
+  {
+    "name": "Godzilla Raids Again",
+    "year": 1955,
+    "kind": "movie",
+    "imdb_id": "tt0048127",
+    "tmdb_id": 1679
+  },
+  {
+    "name": "King Kong vs. Godzilla",
+    "year": 1962,
+    "kind": "movie",
+    "imdb_id": "tt13364334",
+    "tmdb_id": 1680
+  },
+  {
+    "name": "Ghidorah, the Three-Headed Monster",
+    "year": 1964,
+    "kind": "movie",
+    "imdb_id": "tt0058544",
+    "tmdb_id": 15766
+  },
+  {
+    "name": "Mothra vs. Godzilla",
+    "year": 1964,
+    "kind": "movie",
+    "imdb_id": "tt0058379",
+    "tmdb_id": 1682
+  },
+  {
+    "name": "Invasion of Astro-Monster",
+    "year": 1965,
+    "kind": "movie",
+    "imdb_id": "tt0059346",
+    "tmdb_id": 19545
+  },
+  {
+    "name": "Ebirah, Horror of the Deep",
+    "year": 1966,
+    "kind": "movie",
+    "imdb_id": "tt0060464",
+    "tmdb_id": 3115
+  },
+  {
+    "name": "Son of Godzilla",
+    "year": 1967,
+    "kind": "movie",
+    "imdb_id": "tt0061856",
+    "tmdb_id": 18627
+  },
+  {
+    "name": "Destroy All Monsters",
+    "year": 1968,
+    "kind": "movie",
+    "imdb_id": "tt0063172",
+    "tmdb_id": 3107
+  },
+  {
+    "name": "All Monsters Attack",
+    "year": 1969,
+    "kind": "movie",
+    "imdb_id": "tt0064373",
+    "tmdb_id": 39462
+  },
+  {
+    "name": "Godzilla vs. Hedorah",
+    "year": 1971,
+    "kind": "movie",
+    "imdb_id": "tt0067148",
+    "tmdb_id": 39464
+  },
+  {
+    "name": "Godzilla vs. Gigan",
+    "year": 1972,
+    "kind": "movie",
+    "imdb_id": "tt0068371",
+    "tmdb_id": 19336
+  },
+  {
+    "name": "Godzilla vs. Megalon",
+    "year": 1973,
+    "kind": "movie",
+    "imdb_id": "tt0070122",
+    "tmdb_id": 39264
+  },
+  {
+    "name": "Godzilla vs. Mechagodzilla",
+    "year": 1974,
+    "kind": "movie",
+    "imdb_id": "tt0071565",
+    "tmdb_id": 38582
+  },
+  {
+    "name": "Terror of Mechagodzilla",
+    "year": 1975,
+    "kind": "movie",
+    "imdb_id": "tt0073373",
+    "tmdb_id": 19333
+  },
+  {
+    "name": "The Return of Godzilla",
+    "year": 1984,
+    "kind": "movie",
+    "imdb_id": "tt9015178",
+    "tmdb_id": 421467
+  },
+  {
+    "name": "Godzilla vs. Biollante",
+    "year": 1989,
+    "kind": "movie",
+    "imdb_id": "tt0097444",
+    "tmdb_id": 18289
+  },
+  {
+    "name": "Godzilla vs. King Ghidorah",
+    "year": 1991,
+    "kind": "movie",
+    "imdb_id": "tt0101962",
+    "tmdb_id": 36679
+  },
+  {
+    "name": "Godzilla vs. Mothra",
+    "year": 1992,
+    "kind": "movie",
+    "imdb_id": "tt0104352",
+    "tmdb_id": 39465
+  },
+  {
+    "name": "Godzilla vs. Mechagodzilla II",
+    "year": 1993,
+    "kind": "movie",
+    "imdb_id": "tt0107027",
+    "tmdb_id": 6593
+  },
+  {
+    "name": "Godzilla vs. SpaceGodzilla",
+    "year": 1994,
+    "kind": "movie",
+    "imdb_id": "tt0109916",
+    "tmdb_id": 39466
+  },
+  {
+    "name": "Godzilla vs. Destoroyah",
+    "year": 1995,
+    "kind": "movie",
+    "imdb_id": "tt0113187",
+    "tmdb_id": 12561
+  },
+  {
+    "name": "Godzilla",
+    "year": 1998,
+    "kind": "movie",
+    "imdb_id": "tt0120685",
+    "tmdb_id": 929
+  },
+  {
+    "name": "Godzilla 2000: Millennium",
+    "year": 1999,
+    "kind": "movie",
+    "imdb_id": "tt0188640",
+    "tmdb_id": 10643
+  },
+  {
+    "name": "Godzilla vs. Megaguirus",
+    "year": 2000,
+    "kind": "movie",
+    "imdb_id": "tt0255198",
+    "tmdb_id": 39468
+  },
+  {
+    "name": "Godzilla, Mothra and King Ghidorah: Giant Monsters All-Out Attack",
+    "year": 2001,
+    "kind": "movie",
+    "imdb_id": "tt0279112",
+    "tmdb_id": 36243
+  },
+  {
+    "name": "Godzilla Against Mechagodzilla",
+    "year": 2002,
+    "kind": "movie",
+    "imdb_id": "tt0314111",
+    "tmdb_id": 12636
+  },
+  {
+    "name": "Godzilla: Tokyo S.O.S.",
+    "year": 2003,
+    "kind": "movie",
+    "imdb_id": "tt0366526",
+    "tmdb_id": 39469
+  },
+  {
+    "name": "Godzilla: Final Wars",
+    "year": 2004,
+    "kind": "movie",
+    "imdb_id": "tt0399102",
+    "tmdb_id": 15767
+  },
+  {
+    "name": "Godzilla",
+    "year": 2014,
+    "kind": "movie",
+    "imdb_id": "tt0831387",
+    "tmdb_id": 124905
+  },
+  {
+    "name": "Shin Godzilla",
+    "year": 2016,
+    "kind": "movie",
+    "imdb_id": "tt4262980",
+    "tmdb_id": 315011
+  },
+  {
+    "name": "Godzilla: Planet of the Monsters",
+    "year": 2017,
+    "kind": "movie",
+    "imdb_id": "tt5979874",
+    "tmdb_id": 449574
+  },
+  {
+    "name": "Godzilla: City on the Edge of Battle",
+    "year": 2018,
+    "kind": "movie",
+    "imdb_id": "tt8015080",
+    "tmdb_id": 492719
+  },
+  {
+    "name": "Godzilla: The Planet Eater",
+    "year": 2018,
+    "kind": "movie",
+    "imdb_id": "tt8478602",
+    "tmdb_id": 536115
+  },
+  {
+    "name": "Godzilla: King of the Monsters",
+    "year": 2019,
+    "kind": "movie",
+    "imdb_id": "tt3741700",
+    "tmdb_id": 373571
+  },
+  {
+    "name": "Godzilla vs. Kong",
+    "year": 2021,
+    "kind": "movie",
+    "imdb_id": "tt5034838",
+    "tmdb_id": 399566
+  },
+  {
+    "name": "Godzilla Minus One",
+    "year": 2023,
+    "kind": "movie",
+    "imdb_id": "tt23289160",
+    "tmdb_id": 940721
+  },
+  {
+    "name": "Godzilla x Kong: The New Empire",
+    "year": 2024,
+    "kind": "movie",
+    "imdb_id": "tt14539740",
+    "tmdb_id": 823464
+  },
+  {
+    "name": "Godzilla Minus Zero",
+    "year": 2026,
+    "kind": "movie",
+    "imdb_id": "tt34384661",
+    "tmdb_id": 1381071
+  }
+]

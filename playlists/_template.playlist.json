@@ -1,0 +1,79 @@
+[
+  {
+    "name": "Example Movie",
+    "year": 1977,
+    "kind": "movie",
+    "imdb_id": "tt0000000",
+    "tmdb_id": 11
+  },
+  {
+    "name": "Example Series",
+    "year": 2019,
+    "kind": "series",
+    "tvdb_id": 12345,
+    "season": 1,
+    "tvdb_season": "12345_1"
+  },
+  {
+    "name": "Example Movie 2",
+    "year": 1980,
+    "kind": "movie",
+    "imdb_id": "tt0000001",
+    "tmdb_id": 12
+  },
+  {
+    "name": "Example Series",
+    "year": 2019,
+    "kind": "series",
+    "tvdb_id": 12345,
+    "season": 2,
+    "tvdb_season": "12345_2"
+  },
+  {
+    "name": "Example Series A",
+    "year": 2014,
+    "kind": "series",
+    "tvdb_id": 111,
+    "season": 1,
+    "episode": 4,
+    "tvdb_episode": {
+      "tvdb_id": 111,
+      "season": 1,
+      "episode": 4
+    }
+  },
+  {
+    "name": "Example Series B",
+    "year": 2022,
+    "kind": "series",
+    "tvdb_id": 222,
+    "season": 3,
+    "episode": 3,
+    "tvdb_episode": {
+      "tvdb_id": 222,
+      "season": 3,
+      "episode": 3
+    }
+  },
+  {
+    "name": "Example Series A",
+    "year": 2014,
+    "kind": "series",
+    "tvdb_id": 111,
+    "season": 1,
+    "episode": 5,
+    "tvdb_episode": {
+      "tvdb_id": 111,
+      "season": 1,
+      "episode": 5
+    }
+  },
+  {
+    "name": "Example Series Whole",
+    "year": 2020,
+    "kind": "series",
+    "imdb_id": "tt0000002",
+    "tmdb_id": 13,
+    "tvdb_id": 12346
+  }
+]

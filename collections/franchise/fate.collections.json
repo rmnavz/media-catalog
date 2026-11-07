@@ -1,0 +1,180 @@
+[
+  {
+    "name": "Fate/stay night Movie: Unlimited Blade Works",
+    "year": 2010,
+    "kind": "movie",
+    "imdb_id": "tt1587156",
+    "tmdb_id": 46304,
+    "anidb_id": 6784,
+    "anilist_id": 6922,
+    "mal_id": 6922
+  },
+  {
+    "name": "Fate/Grand Order: First Order",
+    "year": 2016,
+    "kind": "movie",
+    "imdb_id": "tt6213810",
+    "tmdb_id": 428142,
+    "anidb_id": 12519,
+    "anilist_id": 97815,
+    "mal_id": 34321
+  },
+  {
+    "name": "Fate/stay night: Heaven's Feel I. Presage Flower",
+    "year": 2017,
+    "kind": "movie",
+    "imdb_id": "tt4054952",
+    "tmdb_id": 283984,
+    "anidb_id": 10755,
+    "anilist_id": 20791,
+    "mal_id": 25537
+  },
+  {
+    "name": "Fate/stay night: Heaven's Feel II. Lost Butterfly",
+    "year": 2019,
+    "kind": "movie",
+    "imdb_id": "tt8091892",
+    "tmdb_id": 390634,
+    "anidb_id": 10755,
+    "anilist_id": 21718,
+    "mal_id": 33049
+  },
+  {
+    "name": "Fate/Grand Order: Divine Realm of the Round Table - Camelot Wandering; Agateram",
+    "year": 2020,
+    "kind": "movie",
+    "imdb_id": "tt9534948",
+    "tmdb_id": 637202,
+    "anidb_id": 14239,
+    "anilist_id": 103276,
+    "mal_id": 38085
+  },
+  {
+    "name": "Fate/stay night: Heaven's Feel III. Spring Song",
+    "year": 2020,
+    "kind": "movie",
+    "imdb_id": "tt8092118",
+    "tmdb_id": 390635,
+    "anidb_id": 10755,
+    "anilist_id": 21719,
+    "mal_id": 33050
+  },
+  {
+    "name": "Fate/Grand Order Final Singularity - Grand Temple of Time: Solomon",
+    "year": 2021,
+    "kind": "movie",
+    "imdb_id": "tt12007484",
+    "tmdb_id": 829920,
+    "anidb_id": 15461,
+    "anilist_id": 116756,
+    "mal_id": 41497
+  },
+  {
+    "name": "Fate/Grand Order: Divine Realm of the Round Table - Camelot Paladin; Agateram",
+    "year": 2021,
+    "kind": "movie",
+    "imdb_id": "tt13997358",
+    "tmdb_id": 637462,
+    "anidb_id": 14239,
+    "anilist_id": 103277,
+    "mal_id": 38086
+  },
+  {
+    "name": "Fate/strange Fake: Whispers of Dawn",
+    "year": 2023,
+    "kind": "movie",
+    "imdb_id": "tt22264336",
+    "tmdb_id": 1145612,
+    "anidb_id": 17636,
+    "anilist_id": 154966,
+    "mal_id": 53127
+  },
+  {
+    "name": "Fate/stay night",
+    "year": 2006,
+    "kind": "series",
+    "imdb_id": "tt0774809",
+    "tmdb_id": 37858,
+    "tvdb_id": 79151,
+    "anidb_id": 3348,
+    "anilist_id": 356,
+    "mal_id": 356
+  },
+  {
+    "name": "Fate/Zero",
+    "year": 2011,
+    "kind": "series",
+    "imdb_id": "tt2051178",
+    "tmdb_id": 45845,
+    "tvdb_id": 275798,
+    "anidb_id": 8160,
+    "anilist_id": 10087,
+    "mal_id": 10087
+  },
+  {
+    "name": "Fate/kaleid liner Prisma Illya",
+    "year": 2013,
+    "kind": "series",
+    "imdb_id": "tt2904426",
+    "tmdb_id": 63576,
+    "tvdb_id": 269319,
+    "anidb_id": 9042,
+    "anilist_id": 14829,
+    "mal_id": 14829
+  },
+  {
+    "name": "Fate/stay night: Unlimited Blade Works",
+    "year": 2014,
+    "kind": "series",
+    "imdb_id": "tt3621796",
+    "tmdb_id": 61415,
+    "tvdb_id": 278626,
+    "anidb_id": 9977,
+    "anilist_id": 19603,
+    "mal_id": 22297
+  },
+  {
+    "name": "Fate/Apocrypha",
+    "year": 2017,
+    "kind": "series",
+    "imdb_id": "tt6424454",
+    "tmdb_id": 72304,
+    "tvdb_id": 326332,
+    "anidb_id": 12704,
+    "anilist_id": 98035,
+    "mal_id": 34662
+  },
+  {
+    "name": "Fate/Extra Last Encore",
+    "year": 2018,
+    "kind": "series",
+    "imdb_id": "tt7940468",
+    "tmdb_id": 76123,
+    "tvdb_id": 337018,
+    "anidb_id": 12046,
+    "anilist_id": 21717,
+    "mal_id": 33047
+  },
+  {
+    "name": "Fate/Grand Order Absolute Demonic Front: Babylonia",
+    "year": 2019,
+    "kind": "series",
+    "imdb_id": "tt9525238",
+    "tmdb_id": 90677,
+    "tvdb_id": 353666,
+    "anidb_id": 14238,
+    "anilist_id": 103275,
+    "mal_id": 38084
+  },
+  {
+    "name": "Lord El-Melloi II's Case Files: Rail Zeppelin Grace Note",
+    "year": 2019,
+    "kind": "series",
+    "imdb_id": "tt9573854",
+    "tmdb_id": 85368,
+    "tvdb_id": 357492,
+    "anidb_id": 14580,
+    "anilist_id": 106918,
+    "mal_id": 38959
+  }
+]

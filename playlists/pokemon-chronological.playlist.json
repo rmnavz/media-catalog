@@ -1,0 +1,90 @@
+[
+  {
+    "name": "Pokémon",
+    "year": 1997,
+    "kind": "series",
+    "imdb_id": "tt0168366",
+    "tmdb_id": 60572,
+    "tvdb_id": 76703,
+    "anidb_id": 230,
+    "anilist_id": 527,
+    "mal_id": 527
+  },
+  {
+    "name": "Pokémon: Advanced",
+    "year": 2002,
+    "kind": "series",
+    "anidb_id": 1041,
+    "anilist_id": 1564,
+    "mal_id": 1564,
+    "imdb_id": "tt0168366",
+    "tmdb_id": 60572,
+    "tvdb_id": 76703
+  },
+  {
+    "name": "Pokémon the Series: Diamond and Pearl",
+    "year": 2006,
+    "kind": "series",
+    "anidb_id": 4728,
+    "anilist_id": 1565,
+    "mal_id": 1565,
+    "imdb_id": "tt0168366",
+    "tmdb_id": 60572,
+    "tvdb_id": 76703
+  },
+  {
+    "name": "Pokémon: Black & White",
+    "year": 2010,
+    "kind": "series",
+    "anidb_id": 7891,
+    "anilist_id": 9107,
+    "mal_id": 9107,
+    "imdb_id": "tt0168366",
+    "tmdb_id": 60572,
+    "tvdb_id": 76703
+  },
+  {
+    "name": "Pokémon the Series: XY",
+    "year": 2013,
+    "kind": "series",
+    "anidb_id": 9956,
+    "anilist_id": 19291,
+    "mal_id": 19291,
+    "imdb_id": "tt0168366",
+    "tmdb_id": 60572,
+    "tvdb_id": 76703
+  },
+  {
+    "name": "Pokémon the Series: Sun & Moon",
+    "year": 2016,
+    "kind": "series",
+    "anidb_id": 12407,
+    "anilist_id": 97634,
+    "mal_id": 34034,
+    "imdb_id": "tt0168366",
+    "tmdb_id": 60572,
+    "tvdb_id": 76703
+  },
+  {
+    "name": "Pokémon Journeys: The Series",
+    "year": 2019,
+    "kind": "series",
+    "anidb_id": 15067,
+    "anilist_id": 112153,
+    "mal_id": 40351,
+    "imdb_id": "tt0168366",
+    "tmdb_id": 60572,
+    "tvdb_id": 76703
+  },
+  {
+    "name": "Pokémon Horizons: The Series",
+    "year": 2023,
+    "kind": "series",
+    "imdb_id": "tt26692417",
+    "tmdb_id": 220150,
+    "anidb_id": 17777,
+    "anilist_id": 158871,
+    "mal_id": 53876,
+    "tvdb_id": 433862
+  }
+]

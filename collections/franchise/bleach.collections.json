@@ -1,0 +1,64 @@
+[
+  {
+    "name": "Bleach the Movie: Memories of Nobody",
+    "year": 2006,
+    "kind": "movie",
+    "imdb_id": "tt1105263",
+    "tmdb_id": 15575,
+    "anidb_id": 4515,
+    "anilist_id": 1686,
+    "mal_id": 1686
+  },
+  {
+    "name": "Bleach the Movie: The DiamondDust Rebellion",
+    "year": 2007,
+    "kind": "movie",
+    "imdb_id": "tt1148261",
+    "tmdb_id": 17101,
+    "anidb_id": 5352,
+    "anilist_id": 2889,
+    "mal_id": 2889
+  },
+  {
+    "name": "Bleach the Movie: Fade to Black",
+    "year": 2008,
+    "kind": "movie",
+    "imdb_id": "tt1339302",
+    "tmdb_id": 17165,
+    "anidb_id": 6041,
+    "anilist_id": 4835,
+    "mal_id": 4835
+  },
+  {
+    "name": "Bleach the Movie: Hell Verse",
+    "year": 2010,
+    "kind": "movie",
+    "imdb_id": "tt1785394",
+    "tmdb_id": 73245,
+    "anidb_id": 7666,
+    "anilist_id": 8247,
+    "mal_id": 8247
+  },
+  {
+    "name": "Bleach",
+    "year": 2004,
+    "kind": "series",
+    "imdb_id": "tt0434665",
+    "tmdb_id": 30984,
+    "tvdb_id": 74796,
+    "anidb_id": 2369,
+    "anilist_id": 269,
+    "mal_id": 269
+  },
+  {
+    "name": "Bleach: Thousand-Year Blood War",
+    "year": 2022,
+    "kind": "series",
+    "imdb_id": "tt14986406",
+    "tmdb_id": 209867,
+    "tvdb_id": 424067,
+    "anidb_id": 15449,
+    "anilist_id": 116674,
+    "mal_id": 41467
+  }
+]

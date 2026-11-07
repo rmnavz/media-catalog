@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Example Movie",
+    "year": 1977,
+    "kind": "movie",
+    "imdb_id": "tt0000000",
+    "tmdb_id": 0
+  },
+  {
+    "name": "Example Series",
+    "year": 2019,
+    "kind": "series",
+    "imdb_id": "tt0000000",
+    "tmdb_id": 0,
+    "tvdb_id": 0
+  },
+  {
+    "name": "Example Anime",
+    "year": 1995,
+    "kind": "series",
+    "imdb_id": "tt0000000",
+    "tmdb_id": 0,
+    "tvdb_id": 0,
+    "anidb_id": 0,
+    "anilist_id": 0,
+    "mal_id": 0
+  }
+]

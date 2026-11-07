@@ -1,0 +1,214 @@
+[
+  {
+    "name": "Star Wars",
+    "year": 1977,
+    "kind": "movie",
+    "imdb_id": "tt0076759",
+    "tmdb_id": 11
+  },
+  {
+    "name": "The Empire Strikes Back",
+    "year": 1980,
+    "kind": "movie",
+    "imdb_id": "tt0080684",
+    "tmdb_id": 1891
+  },
+  {
+    "name": "Return of the Jedi",
+    "year": 1983,
+    "kind": "movie",
+    "imdb_id": "tt0086190",
+    "tmdb_id": 1892
+  },
+  {
+    "name": "Star Wars: Episode I – The Phantom Menace",
+    "year": 1999,
+    "kind": "movie",
+    "imdb_id": "tt0120915",
+    "tmdb_id": 1893
+  },
+  {
+    "name": "Star Wars: Episode II – Attack of the Clones",
+    "year": 2002,
+    "kind": "movie",
+    "imdb_id": "tt0121765",
+    "tmdb_id": 1894
+  },
+  {
+    "name": "Star Wars: Episode III – Revenge of the Sith",
+    "year": 2005,
+    "kind": "movie",
+    "imdb_id": "tt0121766",
+    "tmdb_id": 1895
+  },
+  {
+    "name": "Star Wars: The Clone Wars",
+    "year": 2008,
+    "kind": "movie",
+    "imdb_id": "tt1185834",
+    "tmdb_id": 12180
+  },
+  {
+    "name": "Star Wars: The Clone Wars",
+    "year": 2008,
+    "kind": "series",
+    "imdb_id": "tt0458290",
+    "tmdb_id": 4194,
+    "tvdb_id": 83268
+  },
+  {
+    "name": "Star Wars Rebels",
+    "year": 2014,
+    "kind": "series",
+    "imdb_id": "tt2930604",
+    "tmdb_id": 60554,
+    "tvdb_id": 283468
+  },
+  {
+    "name": "Star Wars: The Force Awakens",
+    "year": 2015,
+    "kind": "movie",
+    "imdb_id": "tt2488496",
+    "tmdb_id": 140607
+  },
+  {
+    "name": "Rogue One: A Star Wars Story",
+    "year": 2016,
+    "kind": "movie",
+    "imdb_id": "tt3748528",
+    "tmdb_id": 330459
+  },
+  {
+    "name": "Star Wars: The Last Jedi",
+    "year": 2017,
+    "kind": "movie",
+    "imdb_id": "tt2527336",
+    "tmdb_id": 181808
+  },
+  {
+    "name": "Solo: A Star Wars Story",
+    "year": 2018,
+    "kind": "movie",
+    "imdb_id": "tt3778644",
+    "tmdb_id": 348350
+  },
+  {
+    "name": "The Mandalorian",
+    "year": 2019,
+    "kind": "series",
+    "tvdb_id": 361753,
+    "season": 1,
+    "tvdb_season": "361753_1"
+  },
+  {
+    "name": "Star Wars: The Rise of Skywalker",
+    "year": 2019,
+    "kind": "movie",
+    "imdb_id": "tt2527338",
+    "tmdb_id": 181812
+  },
+  {
+    "name": "The Mandalorian",
+    "year": 2019,
+    "kind": "series",
+    "tvdb_id": 361753,
+    "season": 2,
+    "tvdb_season": "361753_2"
+  },
+  {
+    "name": "Star Wars: The Bad Batch",
+    "year": 2021,
+    "kind": "series",
+    "imdb_id": "tt12708542",
+    "tmdb_id": 105971,
+    "tvdb_id": 385376
+  },
+  {
+    "name": "The Book of Boba Fett",
+    "year": 2021,
+    "kind": "series",
+    "imdb_id": "tt13668894",
+    "tmdb_id": 115036,
+    "tvdb_id": 393589
+  },
+  {
+    "name": "Obi-Wan Kenobi",
+    "year": 2022,
+    "kind": "series",
+    "imdb_id": "tt8466564",
+    "tmdb_id": 92830,
+    "tvdb_id": 393199
+  },
+  {
+    "name": "Andor",
+    "year": 2022,
+    "kind": "series",
+    "tvdb_id": 393189,
+    "season": 1,
+    "tvdb_season": "393189_1"
+  },
+  {
+    "name": "Star Wars: Tales of the Jedi",
+    "year": 2022,
+    "kind": "series",
+    "imdb_id": "tt20723374",
+    "tmdb_id": 203085,
+    "tvdb_id": 420659
+  },
+  {
+    "name": "The Mandalorian",
+    "year": 2019,
+    "kind": "series",
+    "tvdb_id": 361753,
+    "season": 3,
+    "tvdb_season": "361753_3"
+  },
+  {
+    "name": "Ahsoka",
+    "year": 2023,
+    "kind": "series",
+    "imdb_id": "tt13622776",
+    "tmdb_id": 114461,
+    "tvdb_id": 393187
+  },
+  {
+    "name": "The Acolyte",
+    "year": 2024,
+    "kind": "series",
+    "imdb_id": "tt12262202",
+    "tmdb_id": 114479,
+    "tvdb_id": 393197
+  },
+  {
+    "name": "Star Wars: Tales of the Empire",
+    "year": 2024,
+    "kind": "series",
+    "imdb_id": "tt32019314",
+    "tmdb_id": 251091,
+    "tvdb_id": 448549
+  },
+  {
+    "name": "Star Wars: Skeleton Crew",
+    "year": 2024,
+    "kind": "series",
+    "imdb_id": "tt20600980",
+    "tmdb_id": 202879,
+    "tvdb_id": 420600
+  },
+  {
+    "name": "Andor",
+    "year": 2022,
+    "kind": "series",
+    "tvdb_id": 393189,
+    "season": 2,
+    "tvdb_season": "393189_2"
+  },
+  {
+    "name": "Star Wars: Tales of the Underworld",
+    "year": 2025,
+    "kind": "series",
+    "imdb_id": "tt36414431",
+    "tmdb_id": 288055,
+    "tvdb_id": 462199
+  }
+]

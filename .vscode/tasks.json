@@ -1,0 +1,170 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "catalog: install deps",
+      "type": "shell",
+      "command": "python -m pip install -r requirements-dev.txt",
+      "options": {
+        "cwd": "${workspaceFolder}"
+      },
+      "problemMatcher": [],
+      "presentation": {
+        "reveal": "always",
+        "panel": "shared"
+      }
+    },
+    {
+      "label": "catalog: validate all",
+      "type": "shell",
+      "command": "python tools/validate_catalog.py --report",
+      "options": {
+        "cwd": "${workspaceFolder}"
+      },
+      "group": {
+        "kind": "test",
+        "isDefault": true
+      },
+      "problemMatcher": [],
+      "presentation": {
+        "reveal": "always",
+        "panel": "shared",
+        "focus": true
+      }
+    },
+    {
+      "label": "catalog: validate all (quiet)",
+      "type": "shell",
+      "command": "python tools/validate_catalog.py --quiet --report",
+      "options": {
+        "cwd": "${workspaceFolder}"
+      },
+      "problemMatcher": [],
+      "presentation": {
+        "reveal": "always",
+        "panel": "shared",
+        "focus": true
+      }
+    },
+    {
+      "label": "catalog: validate all (strict)",
+      "type": "shell",
+      "command": "python tools/validate_catalog.py --strict --quiet",
+      "options": {
+        "cwd": "${workspaceFolder}"
+      },
+      "problemMatcher": [],
+      "presentation": {
+        "reveal": "always",
+        "panel": "shared",
+        "focus": true
+      }
+    },
+    {
+      "label": "catalog: validate current file",
+      "type": "shell",
+      "command": "python tools/validate_catalog.py --path \"${file}\"",
+      "options": {
+        "cwd": "${workspaceFolder}"
+      },
+      "problemMatcher": [],
+      "presentation": {
+        "reveal": "always",
+        "panel": "shared",
+        "focus": true
+      }
+    },
+    {
+      "label": "catalog: validate slug",
+      "type": "shell",
+      "command": "python tools/validate_catalog.py --slug ${input:catalogSlug}",
+      "options": {
+        "cwd": "${workspaceFolder}"
+      },
+      "problemMatcher": [],
+      "presentation": {
+        "reveal": "always",
+        "panel": "shared",
+        "focus": true
+      }
+    },
+    {
+      "label": "catalog: validate slug (quiet)",
+      "type": "shell",
+      "command": "python tools/validate_catalog.py --slug ${input:catalogSlug} --quiet",
+      "options": {
+        "cwd": "${workspaceFolder}"
+      },
+      "problemMatcher": [],
+      "presentation": {
+        "reveal": "always",
+        "panel": "shared",
+        "focus": true
+      }
+    },
+    {
+      "label": "catalog: validate live (all)",
+      "type": "shell",
+      "command": "python tools/validate_catalog.py --live",
+      "options": {
+        "cwd": "${workspaceFolder}"
+      },
+      "problemMatcher": [],
+      "presentation": {
+        "reveal": "always",
+        "panel": "shared",
+        "focus": true
+      }
+    },
+    {
+      "label": "catalog: validate live (slug)",
+      "type": "shell",
+      "command": "python tools/validate_catalog.py --live --slug ${input:catalogSlug}",
+      "options": {
+        "cwd": "${workspaceFolder}"
+      },
+      "problemMatcher": [],
+      "presentation": {
+        "reveal": "always",
+        "panel": "shared",
+        "focus": true
+      }
+    },
+    {
+      "label": "catalog: validate live (current file)",
+      "type": "shell",
+      "command": "python tools/validate_catalog.py --live --path \"${file}\"",
+      "options": {
+        "cwd": "${workspaceFolder}"
+      },
+      "problemMatcher": [],
+      "presentation": {
+        "reveal": "always",
+        "panel": "shared",
+        "focus": true
+      }
+    },
+    {
+      "label": "catalog: validate live + refresh cache (slug)",
+      "type": "shell",
+      "command": "python tools/validate_catalog.py --live --refresh-cache --slug ${input:catalogSlug}",
+      "options": {
+        "cwd": "${workspaceFolder}"
+      },
+      "problemMatcher": [],
+      "presentation": {
+        "reveal": "always",
+        "panel": "shared",
+        "focus": true
+      }
+    }
+  ],
+  "inputs": [
+    {
+      "id": "catalogSlug",
+      "type": "promptString",
+      "description": "Franchise / thematic slug (e.g. star-wars, bleach)",
+      "default": "star-wars"
+    }
+  ]
+}

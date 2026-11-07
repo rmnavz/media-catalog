@@ -1,0 +1,67 @@
+[
+  {
+    "name": "Jurassic Park",
+    "year": 1993,
+    "kind": "movie",
+    "imdb_id": "tt0107290",
+    "tmdb_id": 329
+  },
+  {
+    "name": "The Lost World: Jurassic Park",
+    "year": 1997,
+    "kind": "movie",
+    "imdb_id": "tt0119567",
+    "tmdb_id": 330
+  },
+  {
+    "name": "Jurassic Park III",
+    "year": 2001,
+    "kind": "movie",
+    "imdb_id": "tt0163025",
+    "tmdb_id": 331
+  },
+  {
+    "name": "Jurassic World",
+    "year": 2015,
+    "kind": "movie",
+    "imdb_id": "tt0369610",
+    "tmdb_id": 135397
+  },
+  {
+    "name": "Jurassic World: Camp Cretaceous",
+    "year": 2020,
+    "kind": "series",
+    "imdb_id": "tt10436228",
+    "tmdb_id": 93741,
+    "tvdb_id": 365066
+  },
+  {
+    "name": "Jurassic World: Fallen Kingdom",
+    "year": 2018,
+    "kind": "movie",
+    "imdb_id": "tt4881806",
+    "tmdb_id": 351286
+  },
+  {
+    "name": "Jurassic World: Chaos Theory",
+    "year": 2024,
+    "kind": "series",
+    "imdb_id": "tt29899148",
+    "tmdb_id": 237512,
+    "tvdb_id": 440997
+  },
+  {
+    "name": "Jurassic World Dominion",
+    "year": 2022,
+    "kind": "movie",
+    "imdb_id": "tt8041270",
+    "tmdb_id": 507086
+  },
+  {
+    "name": "Jurassic World Rebirth",
+    "year": 2025,
+    "kind": "movie",
+    "imdb_id": "tt31036941",
+    "tmdb_id": 1234821
+  }
+]

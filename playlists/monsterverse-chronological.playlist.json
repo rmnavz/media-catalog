@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Kong: Skull Island",
+    "year": 2017,
+    "kind": "movie",
+    "imdb_id": "tt3731562",
+    "tmdb_id": 293167
+  },
+  {
+    "name": "Godzilla",
+    "year": 2014,
+    "kind": "movie",
+    "imdb_id": "tt0831387",
+    "tmdb_id": 124905
+  },
+  {
+    "name": "Monarch: Legacy of Monsters",
+    "year": 2023,
+    "kind": "series",
+    "tvdb_id": 422598,
+    "season": 1,
+    "tvdb_season": "422598_1"
+  },
+  {
+    "name": "Godzilla: King of the Monsters",
+    "year": 2019,
+    "kind": "movie",
+    "imdb_id": "tt3741700",
+    "tmdb_id": 373571
+  },
+  {
+    "name": "Godzilla vs. Kong",
+    "year": 2021,
+    "kind": "movie",
+    "imdb_id": "tt5034838",
+    "tmdb_id": 399566
+  },
+  {
+    "name": "Godzilla x Kong: The New Empire",
+    "year": 2024,
+    "kind": "movie",
+    "imdb_id": "tt14539740",
+    "tmdb_id": 823464
+  },
+  {
+    "name": "Monarch: Legacy of Monsters",
+    "year": 2023,
+    "kind": "series",
+    "tvdb_id": 422598,
+    "season": 2,
+    "tvdb_season": "422598_2"
+  }
+]

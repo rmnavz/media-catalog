@@ -1,0 +1,145 @@
+[
+  {
+    "name": "Naruto the Movie: Ninja Clash in the Land of Snow",
+    "year": 2004,
+    "kind": "movie",
+    "imdb_id": "tt0476680",
+    "tmdb_id": 16907,
+    "anidb_id": 1456,
+    "anilist_id": 442,
+    "mal_id": 442
+  },
+  {
+    "name": "Naruto the Movie: Legend of the Stone of Gelel",
+    "year": 2005,
+    "kind": "movie",
+    "imdb_id": "tt0791188",
+    "tmdb_id": 16910,
+    "anidb_id": 3030,
+    "anilist_id": 936,
+    "mal_id": 936
+  },
+  {
+    "name": "Naruto the Movie: Guardians of the Crescent Moon Kingdom",
+    "year": 2006,
+    "kind": "movie",
+    "imdb_id": "tt1071815",
+    "tmdb_id": 18861,
+    "anidb_id": 4421,
+    "anilist_id": 2144,
+    "mal_id": 2144
+  },
+  {
+    "name": "Naruto Shippuden the Movie",
+    "year": 2007,
+    "kind": "movie",
+    "imdb_id": "tt0988982",
+    "tmdb_id": 20982,
+    "anidb_id": 5178,
+    "anilist_id": 2472,
+    "mal_id": 2472
+  },
+  {
+    "name": "Naruto Shippuden the Movie: Bonds",
+    "year": 2008,
+    "kind": "movie",
+    "imdb_id": "tt1160524",
+    "tmdb_id": 17581,
+    "anidb_id": 5914,
+    "anilist_id": 4437,
+    "mal_id": 4437
+  },
+  {
+    "name": "Naruto Shippuden the Movie: The Will of Fire",
+    "year": 2009,
+    "kind": "movie",
+    "imdb_id": "tt1481363",
+    "tmdb_id": 36728,
+    "anidb_id": 6503,
+    "anilist_id": 6325,
+    "mal_id": 6325
+  },
+  {
+    "name": "Naruto Shippuden the Movie: The Lost Tower",
+    "year": 2010,
+    "kind": "movie",
+    "imdb_id": "tt1703048",
+    "tmdb_id": 50723,
+    "anidb_id": 7483,
+    "anilist_id": 8246,
+    "mal_id": 8246
+  },
+  {
+    "name": "Naruto Shippuden the Movie: Blood Prison",
+    "year": 2011,
+    "kind": "movie",
+    "imdb_id": "tt1999167",
+    "tmdb_id": 75624,
+    "anidb_id": 8312,
+    "anilist_id": 10589,
+    "mal_id": 10589
+  },
+  {
+    "name": "Road to Ninja: Naruto the Movie",
+    "year": 2012,
+    "kind": "movie",
+    "imdb_id": "tt2290828",
+    "tmdb_id": 118406,
+    "anidb_id": 9023,
+    "anilist_id": 13667,
+    "mal_id": 13667
+  },
+  {
+    "name": "The Last: Naruto the Movie",
+    "year": 2014,
+    "kind": "movie",
+    "imdb_id": "tt3717532",
+    "tmdb_id": 317442,
+    "anidb_id": 9588,
+    "anilist_id": 16870,
+    "mal_id": 16870
+  },
+  {
+    "name": "Boruto: Naruto the Movie",
+    "year": 2015,
+    "kind": "movie",
+    "imdb_id": "tt4618398",
+    "tmdb_id": 347201,
+    "anidb_id": 10961,
+    "anilist_id": 21220,
+    "mal_id": 28755
+  },
+  {
+    "name": "Naruto",
+    "year": 2002,
+    "kind": "series",
+    "imdb_id": "tt0409591",
+    "tmdb_id": 46260,
+    "tvdb_id": 78857,
+    "anidb_id": 239,
+    "anilist_id": 20,
+    "mal_id": 20
+  },
+  {
+    "name": "Naruto: Shippuden",
+    "year": 2007,
+    "kind": "series",
+    "imdb_id": "tt0988824",
+    "tmdb_id": 31910,
+    "tvdb_id": 79824,
+    "anidb_id": 4880,
+    "anilist_id": 1735,
+    "mal_id": 1735
+  },
+  {
+    "name": "Boruto: Naruto Next Generations",
+    "year": 2017,
+    "kind": "series",
+    "imdb_id": "tt6342474",
+    "tmdb_id": 70881,
+    "tvdb_id": 321285,
+    "anidb_id": 12661,
+    "anilist_id": 97938,
+    "mal_id": 34566
+  }
+]

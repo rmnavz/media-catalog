@@ -1,0 +1,26 @@
+[
+  {
+    "name": "The Boys",
+    "year": 2019,
+    "kind": "series",
+    "imdb_id": "tt1190634",
+    "tmdb_id": 76479,
+    "tvdb_id": 355567
+  },
+  {
+    "name": "The Boys Presents: Diabolical",
+    "year": 2022,
+    "kind": "series",
+    "imdb_id": "tt16350094",
+    "tmdb_id": 152483,
+    "tvdb_id": 413188
+  },
+  {
+    "name": "Gen V",
+    "year": 2023,
+    "kind": "series",
+    "imdb_id": "tt13159924",
+    "tmdb_id": 205715,
+    "tvdb_id": 417909
+  }
+]

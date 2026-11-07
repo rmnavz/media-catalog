@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Bakemonogatari",
+    "year": 2009,
+    "kind": "series",
+    "tvdb_id": 102261,
+    "season": 1,
+    "tvdb_season": "102261_1"
+  },
+  {
+    "name": "Kizumonogatari Part 1: Tekketsu",
+    "year": 2016,
+    "kind": "movie",
+    "imdb_id": "tt3138698",
+    "tmdb_id": 357786,
+    "anidb_id": 8357,
+    "anilist_id": 9260,
+    "mal_id": 9260
+  },
+  {
+    "name": "Kizumonogatari Part 2: Nekketsu",
+    "year": 2016,
+    "kind": "movie",
+    "imdb_id": "tt5084196",
+    "tmdb_id": 362584,
+    "anidb_id": 8357,
+    "anilist_id": 21399,
+    "mal_id": 31757
+  },
+  {
+    "name": "Kizumonogatari Part 3: Reiketsu",
+    "year": 2017,
+    "kind": "movie",
+    "imdb_id": "tt5084198",
+    "tmdb_id": 362585,
+    "anidb_id": 8357,
+    "anilist_id": 21400,
+    "mal_id": 31758
+  },
+  {
+    "name": "Bakemonogatari",
+    "year": 2009,
+    "kind": "series",
+    "tvdb_id": 102261,
+    "season": 2,
+    "tvdb_season": "102261_2"
+  },
+  {
+    "name": "Bakemonogatari",
+    "year": 2009,
+    "kind": "series",
+    "tvdb_id": 102261,
+    "season": 3,
+    "tvdb_season": "102261_3"
+  },
+  {
+    "name": "Bakemonogatari",
+    "year": 2009,
+    "kind": "series",
+    "tvdb_id": 102261,
+    "season": 4,
+    "tvdb_season": "102261_4"
+  },
+  {
+    "name": "Bakemonogatari",
+    "year": 2009,
+    "kind": "series",
+    "tvdb_id": 102261,
+    "season": 5,
+    "tvdb_season": "102261_5"
+  },
+  {
+    "name": "Bakemonogatari",
+    "year": 2009,
+    "kind": "series",
+    "tvdb_id": 102261,
+    "season": 6,
+    "tvdb_season": "102261_6"
+  },
+  {
+    "name": "Bakemonogatari",
+    "year": 2009,
+    "kind": "series",
+    "tvdb_id": 102261,
+    "season": 7,
+    "tvdb_season": "102261_7"
+  },
+  {
+    "name": "Bakemonogatari",
+    "year": 2009,
+    "kind": "series",
+    "tvdb_id": 102261,
+    "season": 8,
+    "tvdb_season": "102261_8"
+  },
+  {
+    "name": "Bakemonogatari",
+    "year": 2009,
+    "kind": "series",
+    "tvdb_id": 102261,
+    "season": 10,
+    "tvdb_season": "102261_10"
+  },
+  {
+    "name": "Bakemonogatari",
+    "year": 2009,
+    "kind": "series",
+    "tvdb_id": 102261,
+    "season": 11,
+    "tvdb_season": "102261_11"
+  }
+]

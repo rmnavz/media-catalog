@@ -1,0 +1,100 @@
+[
+  {
+    "name": "Spider-Man",
+    "year": 2002,
+    "kind": "movie",
+    "imdb_id": "tt0145487",
+    "tmdb_id": 557
+  },
+  {
+    "name": "Spider-Man 2",
+    "year": 2004,
+    "kind": "movie",
+    "imdb_id": "tt0316654",
+    "tmdb_id": 558
+  },
+  {
+    "name": "Spider-Man 3",
+    "year": 2007,
+    "kind": "movie",
+    "imdb_id": "tt0413300",
+    "tmdb_id": 559
+  },
+  {
+    "name": "The Amazing Spider-Man",
+    "year": 2012,
+    "kind": "movie",
+    "imdb_id": "tt0948470",
+    "tmdb_id": 1930
+  },
+  {
+    "name": "The Amazing Spider-Man 2",
+    "year": 2014,
+    "kind": "movie",
+    "imdb_id": "tt1872181",
+    "tmdb_id": 102382
+  },
+  {
+    "name": "Spider-Man: Homecoming",
+    "year": 2017,
+    "kind": "movie",
+    "imdb_id": "tt2250912",
+    "tmdb_id": 315635
+  },
+  {
+    "name": "Venom",
+    "year": 2018,
+    "kind": "movie",
+    "imdb_id": "tt1270797",
+    "tmdb_id": 335983
+  },
+  {
+    "name": "Spider-Man: Into the Spider-Verse",
+    "year": 2018,
+    "kind": "movie",
+    "imdb_id": "tt4633694",
+    "tmdb_id": 324857
+  },
+  {
+    "name": "Spider-Man: Far From Home",
+    "year": 2019,
+    "kind": "movie",
+    "imdb_id": "tt6320628",
+    "tmdb_id": 429617
+  },
+  {
+    "name": "Venom: Let There Be Carnage",
+    "year": 2021,
+    "kind": "movie",
+    "imdb_id": "tt7097896",
+    "tmdb_id": 580489
+  },
+  {
+    "name": "Spider-Man: No Way Home",
+    "year": 2021,
+    "kind": "movie",
+    "imdb_id": "tt10872600",
+    "tmdb_id": 634649
+  },
+  {
+    "name": "Spider-Man: Across the Spider-Verse",
+    "year": 2023,
+    "kind": "movie",
+    "imdb_id": "tt9362722",
+    "tmdb_id": 569094
+  },
+  {
+    "name": "Venom: The Last Dance",
+    "year": 2024,
+    "kind": "movie",
+    "imdb_id": "tt16366836",
+    "tmdb_id": 912649
+  },
+  {
+    "name": "Spider-Man: Brand New Day",
+    "year": 2026,
+    "kind": "movie",
+    "imdb_id": "tt22084616",
+    "tmdb_id": 969681
+  }
+]

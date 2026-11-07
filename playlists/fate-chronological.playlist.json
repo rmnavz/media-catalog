@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Fate/Zero",
+    "year": 2011,
+    "kind": "series",
+    "imdb_id": "tt2051178",
+    "tmdb_id": 45845,
+    "tvdb_id": 275798,
+    "anidb_id": 8160,
+    "anilist_id": 10087,
+    "mal_id": 10087
+  },
+  {
+    "name": "Fate/stay night: Unlimited Blade Works",
+    "year": 2014,
+    "kind": "series",
+    "imdb_id": "tt3621796",
+    "tmdb_id": 61415,
+    "tvdb_id": 278626,
+    "anidb_id": 9977,
+    "anilist_id": 19603,
+    "mal_id": 22297
+  },
+  {
+    "name": "Fate/stay night: Heaven's Feel I. Presage Flower",
+    "year": 2017,
+    "kind": "movie",
+    "imdb_id": "tt4054952",
+    "tmdb_id": 283984,
+    "anidb_id": 10755,
+    "anilist_id": 20791,
+    "mal_id": 25537
+  },
+  {
+    "name": "Fate/stay night: Heaven's Feel II. Lost Butterfly",
+    "year": 2019,
+    "kind": "movie",
+    "imdb_id": "tt8091892",
+    "tmdb_id": 390634,
+    "anidb_id": 10755,
+    "anilist_id": 21718,
+    "mal_id": 33049
+  },
+  {
+    "name": "Fate/stay night: Heaven's Feel III. Spring Song",
+    "year": 2020,
+    "kind": "movie",
+    "imdb_id": "tt8092118",
+    "tmdb_id": 390635,
+    "anidb_id": 10755,
+    "anilist_id": 21719,
+    "mal_id": 33050
+  }
+]

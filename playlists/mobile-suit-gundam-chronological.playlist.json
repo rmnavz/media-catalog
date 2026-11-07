@@ -1,0 +1,270 @@
+[
+  {
+    "name": "Mobile Suit Gundam",
+    "year": 1979,
+    "kind": "series",
+    "imdb_id": "tt0159172",
+    "tmdb_id": 21731,
+    "tvdb_id": 76547,
+    "mal_id": 80,
+    "anilist_id": 80,
+    "anidb_id": 715
+  },
+  {
+    "name": "Mobile Suit Gundam: The 08th MS Team",
+    "year": 1996,
+    "kind": "series",
+    "imdb_id": "tt0159569",
+    "tmdb_id": 43887,
+    "tvdb_id": 80784,
+    "mal_id": 81,
+    "anilist_id": 81,
+    "anidb_id": 217
+  },
+  {
+    "name": "Mobile Suit Gundam Thunderbolt",
+    "year": 2015,
+    "kind": "series",
+    "imdb_id": "tt13963530",
+    "tmdb_id": 64809,
+    "tvdb_id": 305171,
+    "mal_id": 31973,
+    "anilist_id": 21458,
+    "anidb_id": 12549
+  },
+  {
+    "name": "Mobile Suit Gundam 0080: War in the Pocket",
+    "year": 1989,
+    "kind": "series",
+    "imdb_id": "tt0097661",
+    "tmdb_id": 46512,
+    "tvdb_id": 80785,
+    "mal_id": 82,
+    "anilist_id": 82,
+    "anidb_id": 716
+  },
+  {
+    "name": "Mobile Suit Gundam 0083: Stardust Memory",
+    "year": 1991,
+    "kind": "series",
+    "imdb_id": "tt0159567",
+    "tmdb_id": 72677,
+    "tvdb_id": 80783,
+    "mal_id": 84,
+    "anilist_id": 84,
+    "anidb_id": 717
+  },
+  {
+    "name": "Mobile Suit Zeta Gundam",
+    "year": 1985,
+    "kind": "series",
+    "imdb_id": "tt0159186",
+    "tmdb_id": 13674,
+    "tvdb_id": 71535,
+    "mal_id": 85,
+    "anilist_id": 85,
+    "anidb_id": 718
+  },
+  {
+    "name": "Mobile Suit Gundam ZZ",
+    "year": 1986,
+    "kind": "series",
+    "imdb_id": "tt0159184",
+    "tmdb_id": 5660,
+    "tvdb_id": 72352,
+    "mal_id": 86,
+    "anilist_id": 86,
+    "anidb_id": 719
+  },
+  {
+    "name": "Mobile Suit Gundam: Char's Counterattack",
+    "year": 1988,
+    "kind": "movie",
+    "imdb_id": "tt0095262",
+    "tmdb_id": 16157,
+    "mal_id": 87,
+    "anilist_id": 87,
+    "anidb_id": 720
+  },
+  {
+    "name": "Mobile Suit Gundam Unicorn",
+    "year": 2010,
+    "kind": "series",
+    "imdb_id": "tt1587790",
+    "tmdb_id": 45500,
+    "tvdb_id": 403849,
+    "mal_id": 6336,
+    "anilist_id": 6336,
+    "anidb_id": 6517
+  },
+  {
+    "name": "Mobile Suit Gundam Narrative",
+    "year": 2018,
+    "kind": "movie",
+    "imdb_id": "tt9497146",
+    "tmdb_id": 553610,
+    "mal_id": 37764,
+    "anilist_id": 101554,
+    "anidb_id": 14042
+  },
+  {
+    "name": "Mobile Suit Gundam Hathaway",
+    "year": 2021,
+    "kind": "movie",
+    "imdb_id": "tt13288678",
+    "tmdb_id": 685274,
+    "mal_id": 37765,
+    "anidb_id": 14043,
+    "anilist_id": 105595
+  },
+  {
+    "name": "Mobile Suit Gundam F91",
+    "year": 1991,
+    "kind": "movie",
+    "imdb_id": "tt0159568",
+    "tmdb_id": 16308,
+    "mal_id": 88,
+    "anilist_id": 88,
+    "anidb_id": 626
+  },
+  {
+    "name": "Mobile Suit Victory Gundam",
+    "year": 1993,
+    "kind": "series",
+    "imdb_id": "tt0159185",
+    "tmdb_id": 25797,
+    "tvdb_id": 71536,
+    "mal_id": 89,
+    "anilist_id": 89,
+    "anidb_id": 721
+  },
+  {
+    "name": "Mobile Suit Gundam GQuuuuuuX",
+    "year": 2025,
+    "kind": "series",
+    "imdb_id": "tt34880941",
+    "tmdb_id": 278704,
+    "tvdb_id": 457473,
+    "mal_id": 60449,
+    "anilist_id": 185213,
+    "anidb_id": 19027
+  },
+  {
+    "name": "Mobile Fighter G Gundam",
+    "year": 1994,
+    "kind": "series",
+    "imdb_id": "tt0159182",
+    "tmdb_id": 30093,
+    "tvdb_id": 80398,
+    "mal_id": 96,
+    "anilist_id": 96,
+    "anidb_id": 915
+  },
+  {
+    "name": "Mobile Suit Gundam Wing",
+    "year": 1995,
+    "kind": "series",
+    "imdb_id": "tt0159193",
+    "tmdb_id": 21730,
+    "tvdb_id": 79327,
+    "mal_id": 90,
+    "anilist_id": 90,
+    "anidb_id": 229
+  },
+  {
+    "name": "Gundam Wing: The Endless Waltz",
+    "year": 1998,
+    "kind": "movie",
+    "imdb_id": "tt0260191",
+    "tmdb_id": 22914,
+    "mal_id": 2273,
+    "anilist_id": 2273,
+    "anidb_id": 496
+  },
+  {
+    "name": "Mobile Suit Gundam SEED",
+    "year": 2002,
+    "kind": "series",
+    "imdb_id": "tt0374407",
+    "tmdb_id": 20111,
+    "tvdb_id": 254931,
+    "mal_id": 93,
+    "anilist_id": 93,
+    "anidb_id": 252
+  },
+  {
+    "name": "Mobile Suit Gundam SEED Destiny",
+    "year": 2004,
+    "kind": "series",
+    "imdb_id": "tt0434694",
+    "tmdb_id": 339346,
+    "tvdb_id": 74890,
+    "mal_id": 94,
+    "anilist_id": 94,
+    "anidb_id": 2186
+  },
+  {
+    "name": "Mobile Suit Gundam SEED FREEDOM",
+    "year": 2024,
+    "kind": "movie",
+    "imdb_id": "tt14759062",
+    "tmdb_id": 1146972,
+    "mal_id": 49073,
+    "anilist_id": 134761,
+    "anidb_id": 14032
+  },
+  {
+    "name": "Mobile Suit Gundam 00",
+    "year": 2007,
+    "kind": "series",
+    "imdb_id": "tt1134000",
+    "tmdb_id": 21732,
+    "tvdb_id": 80675,
+    "mal_id": 2581,
+    "anilist_id": 2581,
+    "anidb_id": 5252
+  },
+  {
+    "name": "Mobile Suit Gundam 00 The Movie: -A Wakening of the Trailblazer-",
+    "year": 2010,
+    "kind": "movie",
+    "imdb_id": "tt1726286",
+    "tmdb_id": 37048,
+    "mal_id": 6288,
+    "anilist_id": 6288,
+    "anidb_id": 7408
+  },
+  {
+    "name": "Mobile Suit Gundam AGE",
+    "year": 2011,
+    "kind": "series",
+    "imdb_id": "tt2193783",
+    "tmdb_id": 45835,
+    "tvdb_id": 252621,
+    "mal_id": 10808,
+    "anilist_id": 10808,
+    "anidb_id": 8494
+  },
+  {
+    "name": "Mobile Suit Gundam: Iron-Blooded Orphans",
+    "year": 2015,
+    "kind": "series",
+    "imdb_id": "tt5344382",
+    "tmdb_id": 64375,
+    "tvdb_id": 299497,
+    "mal_id": 31251,
+    "anilist_id": 21268,
+    "anidb_id": 11372
+  },
+  {
+    "name": "Mobile Suit Gundam: The Witch from Mercury",
+    "year": 2022,
+    "kind": "series",
+    "imdb_id": "tt15433166",
+    "tmdb_id": 196400,
+    "tvdb_id": 418364,
+    "mal_id": 49828,
+    "anilist_id": 139274,
+    "anidb_id": 16700
+  }
+]
